@@ -20,7 +20,10 @@ It is a fully automatic seed sowing robot that automates this task. The robot us
 ## **Automated robot for seed sowing and fertilizer spraying along with weed remover based on MSP430 controller**
 
 ***
-
 The controller used here is the “MSP430 Micro-controller”. The micro-controller is brain of this system, which can dedicate the order of suggestions received to all the networks, and sensible factors processed by their corresponding embedded programs. Robotic mechanism played by their internal motors and motor drivers that drive the motors in desired directions. Here the one will monitor the robot and send the signal. According to the received signal the robot will move in the direction and it will place the seed and fertilizer on field for specified distance. The seeds are sowed in 4 rows at a single instance.[3]
+***
+
+
+## ****
 
 
