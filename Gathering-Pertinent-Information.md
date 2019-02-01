@@ -24,6 +24,10 @@ The controller used here is the “MSP430 Micro-controller”. The micro-control
 ***
 
 
-## ****
+## ** Automated seed sowing machine **
+
+***
+It is an automated seed sowing machine which contains micro-controllers sensors, motor driving circuit, sowing mechanism and motors. The IR sensor module has been used to count the number of rotations of the wheel. From this count of rotation it can cover a specific distance and send the signal to the micro-controller. Then the micro controller activates the seed sowing mechanism and it sows the seed. The plough and sand cover operations are done as the rover moves forward. [4]
+***
 
 
