@@ -44,4 +44,24 @@ A machine which will meet the farmers requirements using engineering specificati
 
 
 
+***
+# DIY Projects
+
+***
+1. IEU MCE 102 TERM PROJECT - SEED SOWING ROBOT-
+   https://www.youtube.com/watch?v=hruV3G-beWs[7]
+
+***
+2. Agricultural robot designed for seeding mechanism-
+   https://iopscience.iop.org/article/10.1088/1757-899X/197/1/012043/pdf[8]
+
+***
+3. Seed sowing machine , AGRO TECH.
+   https://www.youtube.com/watch?v=2qtD3dspznE[9]
+
+***
+4. 
+   
+
+
 
