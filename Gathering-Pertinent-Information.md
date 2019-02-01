@@ -1,6 +1,6 @@
-#  **Introduction**
+#  **ABSTRACT**
 
-India is an agrarian community. About 46% of the available land is used for agriculture.[1] A country where a farmer's life has never been easy, from sowing to ploughing and then irrigation, the amount of hard work that a lay-man has to put is needless to say. About half of the total population of the country has chosen agriculture as their chief occupation. In the field of agriculture  In such a country where agriculture is of such eminence, use of technology in this field is mandatory. The remote-controlled seed sowing bot helps farmers to sow seeds in an easier, more efficient and a less time consuming way. Seed sowing is one of the vital process in agriculture, but it is quite exhausting and time consuming. The bot helps to automate the entire process, by which the process will be less exhausting for the farmer and will be more efficient.
+India is an agrarian community. About 46% of the available land is used for agriculture.[1] A country where a farmer's life has never been easy, from sowing to ploughing and then irrigation, the amount of hard work that a lay-man has to put is needless to say. About half of the total population of the country has chosen agriculture as their chief occupation. In the field of agriculture  In such a country where agriculture is of such eminence, use of technology in this field is mandatory. The remote-controlled seed sowing bot helps farmers to sow seeds in an easier, more efficient and a less time consuming way. Seed sowing is one of the vital process in agriculture, but it is quite exhausting and time consuming. The bot which is wireless helps to automate the entire process, by which the process will be less exhausting for the farmer and will be more efficient.
 
 
 # **Existing solutions to given the given problem**
@@ -24,7 +24,7 @@ The controller used here is the “MSP430 Micro-controller”. The micro-control
 ***
 
 
-## ** Automated seed sowing machine **
+## **Automated seed sowing machine**
 
 ***
 It is an automated seed sowing machine which contains micro-controllers sensors, motor driving circuit, sowing mechanism and motors. The IR sensor module has been used to count the number of rotations of the wheel. From this count of rotation it can cover a specific distance and send the signal to the micro-controller. Then the micro controller activates the seed sowing mechanism and it sows the seed. The plough and sand cover operations are done as the rover moves forward. [4]
