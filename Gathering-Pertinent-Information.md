@@ -58,10 +58,11 @@ A machine which will meet the farmers requirements using engineering specificati
 ***
 3. Agricultural robot designed for seeding mechanism-
    https://iopscience.iop.org/article/10.1088/1757-899X/197/1/012043/pdf[11]
-
+   Description: In this work, apart of the land is taken into consideration and the robot introduced localizes the path and can navigate itself without human action. For ploughing, this robot is provided with tentacles attached with saw blades. The sowing mechanism initiates with long toothed gears actuated with motor.
 ***
 4. Seed sowing machine , AGRO TECH.
    https://www.youtube.com/watch?v=2qtD3dspznE[12]
+Description:This project uses Arduino UNO and a bluetooth module along with DC moters and a L293D motor driver.
 
 ***
 5. Automated seed sowing machine-
