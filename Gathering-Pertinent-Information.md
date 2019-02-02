@@ -69,9 +69,12 @@ A machine which will meet the farmers requirements using engineering specificati
 ***
 4. Automated seed sowing machine-
    https://www.youtube.com/watch?v=S0BFd1jPQEc[13]
+Working:They use the IR sensor module to count the number of rotations of the wheel. From this count of rotation they can cover a specific distance and it will send the signal to the microcontroller.After receiving the signal microcontroller will activate the motor driving circuit and depending on conditions dc motors are operated. Microcontroller keep counting the number of seeds sown in a row as well as the total number of columns in which seeds are sown.After moving predefined specific distance motor will turn off and seed will be sowed according to the sowing mechanism and this process will be repeated. In sowing mechanism, stepper motor is used. It is used to drop only one seed at a time. It has step angle 1.8 degree.
    Components used-
   *  8051 Micro-controller- It is used to store the seed in a M by N pattern.The micro-controller 8051 applications include large amount of machines, principally because it is simple to incorporate in a project or to assemble a machine around it.
-  *   
+  *  L293D motor driver-It is used to control the DC motor. It allows you to control the working speed and direction of two motors simultaneously.
+  *  ULN2003-The ULN2003 is known for its high-current, high-voltage capacity. The drivers can be paralleled for even higher current output. Even further, stacking one chip on top of another, both electrically and physically, has been done. Generally it can also be used for interfacing with a stepper motor, where the motor requires high ratings which cannot be provided by other interfacing devices.
+  * 
 
    
 
