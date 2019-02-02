@@ -68,6 +68,12 @@ Description:This project uses Arduino UNO and a bluetooth module along with DC m
 5. Automated seed sowing machine-
    https://www.youtube.com/watch?v=S0BFd1jPQEc[13]
 ###Description:They use the IR sensor module to count the number of rotations of the wheel. From this count of rotation they can cover a specific distance and it will send the signal to the microcontroller.After receiving the signal microcontroller will activate the motor driving circuit and depending on conditions dc motors are operated. Microcontroller keep counting the number of seeds sown in a row as well as the total number of columns in which seeds are sown.After moving predefined specific distance motor will turn off and seed will be sowed according to the sowing mechanism and this process will be repeated. In sowing mechanism, stepper motor is used. It is used to drop only one seed at a time. It has step angle 1.8 degree.
+
+***
+6. Automated seed sowing Bot
+   httpss://www.youtube.com/watch?v=zje7rHNDD7c[14]
+###Description:
+The robot consists of a funnel like arrangement in order to pour seeds into a lower container. There we use a shaft with gear like bucket teeth to pick up limited quantity of seeds and pour them on the ground in a steady manner in proper quantity. The front of the robot can be further fitted with a bent plate that drags on the soil to make a slot ahead of the machine before seeds are poured in it. The back portion of the robot can be fitted with a tail like bent rod that is again used to pour soil on seeds sowed thus covering them with soil. Thus the system completely automated the seed sowing process using a smartly designed mechanical robotic system.
    
 
 
