@@ -52,12 +52,9 @@ A machine which will meet the farmers requirements using engineering specificati
    https://www.youtube.com/watch?v=hruV3G-beWs[7]
 2. Lego Mindstorm EV3 robot-Auto Plougher and Seed Sower.
    https://www.youtube.com/watch?v=L0fIRlOt9bY[8]
+   Description:Lego Mindstorms NXT-Lego Mindstorms NXT is a programmable robotics kit released by Lego in July 2006, replacing the first-generation LEGO Mindstorms kit.The kit consists of 577 pieces, including: 3 servo motors, 4 sensors (ultrasonic, sound, touch, and light), 7 connection cables, a USB interface cable, and the NXT Intelligent Brick.The Intelligent Brick is the "brain" of a Mindstorms machine. It lets the robot autonomously perform different operations.[9] 
 
-   Components used-
-* Lego Mindstorms NXT-Lego Mindstorms NXT is a programmable robotics kit released by Lego in July 2006, replacing the first-generation LEGO Mindstorms kit.The kit consists of 577 pieces, including: 3 servo motors, 4 sensors (ultrasonic, sound, touch, and light), 7 connection cables, a USB interface cable, and the NXT Intelligent Brick. The kit also includes NXT-G, a graphical programming environment that enables the creation and downloading of programs to the NXT. The software also has instructions for 4 robots; Alpha-Rex (a humanoid),Tri-Bot (a car), Robo-Arm T-56 (a robotic arm), and Spike (a scorpion).
-* NXT Intelligent Brick-The Intelligent Brick is the "brain" of a Mindstorms machine. It lets the robot autonomously perform different operations.[9]
-* Servo motor-A servo motor is an electrical device which can push or rotate an object with great precision. If you want to rotate and object at some specific angles or distance, then you use servo motor. It is just made up of simple motor which run through servo mechanism. If motor is used is DC powered then it is called DC servo motor, and if it is AC powered motor then it is called AC servo motor.[10]
-
+  
 ***
 3. Agricultural robot designed for seeding mechanism-
    https://iopscience.iop.org/article/10.1088/1757-899X/197/1/012043/pdf[11]
@@ -69,15 +66,8 @@ A machine which will meet the farmers requirements using engineering specificati
 ***
 5. Automated seed sowing machine-
    https://www.youtube.com/watch?v=S0BFd1jPQEc[13]
-Working:They use the IR sensor module to count the number of rotations of the wheel. From this count of rotation they can cover a specific distance and it will send the signal to the microcontroller.After receiving the signal microcontroller will activate the motor driving circuit and depending on conditions dc motors are operated. Microcontroller keep counting the number of seeds sown in a row as well as the total number of columns in which seeds are sown.After moving predefined specific distance motor will turn off and seed will be sowed according to the sowing mechanism and this process will be repeated. In sowing mechanism, stepper motor is used. It is used to drop only one seed at a time. It has step angle 1.8 degree.
-   Components used-
-  *  8051 Micro-controller- It is used to store the seed in a M by N pattern.The micro-controller 8051 applications include large amount of machines, principally because it is simple to incorporate in a project or to assemble a machine around it.
-  *  L293D motor driver-It is used to control the DC motor. It allows you to control the working speed and direction of two motors simultaneously.
-  *  ULN2003-The ULN2003 is known for its high-current, high-voltage capacity. The drivers can be paralleled for even higher current output. Even further, stacking one chip on top of another, both electrically and physically, has been done. Generally it can also be used for interfacing with a stepper motor, where the motor requires high ratings which cannot be provided by other interfacing devices.
-  * IR Sensor-An infrared sensor is an electronic device, that emits in order to sense some aspects of the surroundings. 
-    An IR sensor can measure the heat of an object as well as detects the motion.This sensor is like a human’s visionary 
-    senses, which can be used to detect obstacles and it is one of the common applications in real time. 
-  * Stepper Motor- It is a DC motor that works in discrete steps.
+Description:They use the IR sensor module to count the number of rotations of the wheel. From this count of rotation they can cover a specific distance and it will send the signal to the microcontroller.After receiving the signal microcontroller will activate the motor driving circuit and depending on conditions dc motors are operated. Microcontroller keep counting the number of seeds sown in a row as well as the total number of columns in which seeds are sown.After moving predefined specific distance motor will turn off and seed will be sowed according to the sowing mechanism and this process will be repeated. In sowing mechanism, stepper motor is used. It is used to drop only one seed at a time. It has step angle 1.8 degree.
+   
 
 
 
