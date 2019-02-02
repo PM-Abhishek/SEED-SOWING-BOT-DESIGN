@@ -51,6 +51,11 @@ A machine which will meet the farmers requirements using engineering specificati
 1. IEU MCE 102 TERM PROJECT - SEED SOWING ROBOT-
    https://www.youtube.com/watch?v=hruV3G-beWs[7]
 
+   Components used-
+* Lego Mindstorms NXT-Lego Mindstorms NXT is a programmable robotics kit released by Lego in July 2006, replacing the first-generation LEGO Mindstorms kit.The kit consists of 577 pieces, including: 3 servo motors, 4 sensors (ultrasonic, sound, touch, and light), 7 connection cables, a USB interface cable, and the NXT Intelligent Brick. The kit also includes NXT-G, a graphical programming environment that enables the creation and downloading of programs to the NXT. The software also has instructions for 4 robots; Alpha-Rex (a humanoid),Tri-Bot (a car), Robo-Arm T-56 (a robotic arm), and Spike (a scorpion).
+* NXT Intelligent Brick-The Intelligent Brick is the "brain" of a Mindstorms machine. It lets the robot autonomously perform different operations.[8]
+* Servo motor-A servo motor is an electrical device which can push or rotate an object with great precision. If you want to rotate and object at some specific angles or distance, then you use servo motor. It is just made up of simple motor which run through servo mechanism. If motor is used is DC powered then it is called DC servo motor, and if it is AC powered motor then it is called AC servo motor.[9]
+
 ***
 2. Agricultural robot designed for seeding mechanism-
    https://iopscience.iop.org/article/10.1088/1757-899X/197/1/012043/pdf[8]
