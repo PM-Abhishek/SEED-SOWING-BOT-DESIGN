@@ -121,4 +121,24 @@ _ _ _
 |1   |Arduino Mega|The Arduino Uno board is a microcontroller based on the ATmega328.It has 14 digital input/output pins.|   
 |2|Spur gear   | Transfer motion from one shaft to a parallel shaft.                                                     |
 |3|Sensors     | Mainly used to detect obstacles in the path of its motion.                                              |
-|4|Battery     | Used to supply power to the circuit.                                                                    |         
+|4|Battery     | Used to supply power to the circuit.                                                                    |  
+
+# Observation
+| SI.No |  Observation |  Conclusion                                                                                     |
+|-------|--------------|-------------------------------------------------------------------------------------------------|
+|1      | Tractors operated in fields have heavy base	|Heavy base is required for our bot to make it stable            |
+|2      |Tractors operated in fields have ridges on their wheels |Ridged wheels are required for smooth operation of the bot in farms|
+|3      |Tractors have strong claw-like structure	|Bot should have strong claw-like structure for low level earth moving operation|
+|4      |Electronic Robots operated both on dc/ac have voltage regulators |Voltage regulators are needed in our bot to so that the bot can be operated by a fixed output voltage|
+|5      |IR(Infrared) sensors present in electronic toy cars are used to detect obstacles in its path|Our bot need IR sensors to detect obstacles in it path to avoid damage to it|
+
+
+	
+
+
+
+
+                                                                   
+
+
+         
