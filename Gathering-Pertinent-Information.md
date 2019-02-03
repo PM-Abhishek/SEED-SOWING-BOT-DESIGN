@@ -62,19 +62,40 @@ A machine which will meet the farmers requirements using engineering specificati
 ***
 4. Seed sowing machine , AGRO TECH.
    https://www.youtube.com/watch?v=2qtD3dspznE[12]
+
 Description:This project uses Arduino UNO and a bluetooth module along with DC moters and a L293D motor driver.
 
 ***
 5. Automated seed sowing machine-
    https://www.youtube.com/watch?v=S0BFd1jPQEc[13]
-###Description:They use the IR sensor module to count the number of rotations of the wheel. From this count of rotation they can cover a specific distance and it will send the signal to the microcontroller.After receiving the signal microcontroller will activate the motor driving circuit and depending on conditions dc motors are operated. Microcontroller keep counting the number of seeds sown in a row as well as the total number of columns in which seeds are sown.After moving predefined specific distance motor will turn off and seed will be sowed according to the sowing mechanism and this process will be repeated. In sowing mechanism, stepper motor is used. It is used to drop only one seed at a time. It has step angle 1.8 degree.
+
+Description:They use the IR sensor module to count the number of rotations of the wheel. From this count of rotation they can cover a specific distance and it will send the signal to the microcontroller.After receiving the signal microcontroller will activate the motor driving circuit and depending on conditions dc motors are operated. Microcontroller keep counting the number of seeds sown in a row as well as the total number of columns in which seeds are sown.After moving predefined specific distance motor will turn off and seed will be sowed according to the sowing mechanism and this process will be repeated. In sowing mechanism, stepper motor is used. It is used to drop only one seed at a time. It has step angle 1.8 degree.
 
 ***
 6. Automated seed sowing Bot
-   httpss://www.youtube.com/watch?v=zje7rHNDD7c[14]
-###Description:
+   https://www.youtube.com/watch?v=zje7rHNDD7c[14]
+
+Description:
 The robot consists of a funnel like arrangement in order to pour seeds into a lower container. There we use a shaft with gear like bucket teeth to pick up limited quantity of seeds and pour them on the ground in a steady manner in proper quantity. The front of the robot can be further fitted with a bent plate that drags on the soil to make a slot ahead of the machine before seeds are poured in it. The back portion of the robot can be fitted with a tail like bent rod that is again used to pour soil on seeds sowed thus covering them with soil. Thus the system completely automated the seed sowing process using a smartly designed mechanical robotic system.
    
+***
+7.Mobile operated agriculture robot with ploughing,seed sowing and pesticides sprinkler-https://www.youtube.com/watch?v=PPk6FeXI7aw
+Description:When the robot is moving on a surface,it is controlled by a Dual Tone Multi Frequency(DTMF)decoder.This can be moved forward and reverse direction.the robot can move towards left and right directions using these geared motors.This project uses AT89S52 Microcontroller and comprises of performing ploughing and seeding via DTMF decoder commands.
+***
 
+8.Solar energy based multipurpose agricultural robotic vehicle-https://www.youtube.com/watch?v=GqAtry7yfCk Description:They are using the 12V solar panel,spur gear,fertiliser sprayer and polymer wheels,bearings,12V,7.2Amp Battery,12V gear motor,seed sower and seed containerand relays.It perform's multiple functions like ploughing,seed sowing and fertilising.
+***
+
+9.Agri bot-https://www.youtube.com/watch?v=mk5KCz_RVUM 
+Description:This is an agricultural bot that can do ploughing,sowing,watering and harvesting.There is a cultivator in the back of the bot for ploughing.After that there is a container filled with seeds for sowing .Then there is a bottle filled with water for watering .At last there is an arm robot for harvesting .
+***
+
+10.AGROBOT-https://www.researchgate.net/publication/325593828_Design_and_development_of_seed_sowing_AGROBOT.
+Description-Agriculture robot can be control by firebird V of ATMEGA2560. In AGROBOT the major components are arranged as shown in Figure 2.1. Here it consist of 12V DC voltage   rechargeable battery with 600mah output is connected  to a L293D motor driver which is connected to a 12V 30 rpm motors as an output device and connected to the firebird V of ATMEGA2560 model to the LP3 and LP4 ports. 
+Each chamber has its own individual rotor shafts connected. The internals connections is made with the male to male wires connecters. Synchronous between wheels are maintain by using IR sensor and encoders therefore it can operate in an agricultural field easily. Seed can be drop to field by using mid van rotor at accurate location. IR sensor and ATMEGA microcontroller features will help in dropping the seeds at prescribed position.
+***
+
+11.
+ 
 
 
