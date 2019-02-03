@@ -121,7 +121,10 @@ _ _ _
 |1   |Arduino Mega|The Arduino Uno board is a microcontroller based on the ATmega328.It has 14 digital input/output pins.|   
 |2|Spur gear   | Transfer motion from one shaft to a parallel shaft.                                                     |
 |3|Sensors     | Mainly used to detect obstacles in the path of its motion.                                              |
-|4|Battery     | Used to supply power to the circuit.                                                                    |  
+|4|Battery     | Used to supply power to the circuit.
+|5|IR sensor|It is used to detect obstacles.
+|6|Bread board|Pre circuit platform.
+|7|Jumper Wire|Conducting Property.                                                                    |  
 
 # Observation
 | SI.No |  Observation |  Conclusion                                                                                     |
