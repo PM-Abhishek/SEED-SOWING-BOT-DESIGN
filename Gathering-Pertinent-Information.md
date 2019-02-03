@@ -143,6 +143,8 @@ _ _ _
 
  *ULN2003-The ULN2003 is known for its high-current, high-voltage capacity. The drivers can be paralleled for even higher current output. Even further, stacking one chip on top of another, both electrically and physically, has been done. Generally it can also be used for interfacing with a stepper motor, where the motor requires high ratings which cannot be provided by other interfacing devices.
 
+![](https://c.76.my/Malaysia/uln2003-stepper-motor-driver-module-iportal-1901-19-F490829_1.jpg)
+
   * IR Sensor-An infrared sensor is an electronic device, that emits in order to sense some aspects of the surroundings.
 
     An IR sensor can measure the heat of an object as well as detects the motion.This sensor is like a human’s visionary
