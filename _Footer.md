@@ -1,7 +1,9 @@
 # NEED STATEMENT
 ##  "University of Agriculture Science has given a project to KLETech University for a seed sowing machine which can be controlled remotely."
  Designers : Akshay(826), Abhishek.P.M(810), Ambika(860), Abhishek .R(811).
+
 1.Client: Neha P
+
 2.Users: University of Agricultural Science
 
 |SI.No.|Questions              |Answers                      |Category        |
@@ -14,3 +16,10 @@
 |6     |Should it be portable?	| Yes |Objective |
 |7     | To what extent should it be user friendly?	|Any layman person should be able to use it.	|Objective|
 |8     |Should it have seed storage facility|Yes | Objective |
+|9     |What should be the cost limit of the robot?	|The cost must not exceed rupees four thousand.	|Constraint|
+|10    |How many storage compartments should be there?	|One |Constraint|
+|11    |what amount of seeds should it be able to carry?	|It should be able to carry 100 grams of seed.	|Constraint|
+|12    |What should be the weight of the robot?	|It must lies between 2-3Kgs| Constraint|
+|13    |How many hours should the robot work continuously?	|For 3 hours| Constraint|
+|14    |What should be the height of the robot?	|1 foot |Constraint|
+|15    |
