@@ -1,6 +1,5 @@
-# 
-
-
+# **PROBLEM DEFINATION**
+The Agricultural Department of Dharwad requires automated seed sowing machines to reduce Human indulgence and steer productivity.
 
 #  **ABSTRACT**
 
