@@ -95,7 +95,22 @@ Description-Agriculture robot can be control by firebird V of ATMEGA2560. In AGR
 Each chamber has its own individual rotor shafts connected. The internals connections is made with the male to male wires connecters. Synchronous between wheels are maintain by using IR sensor and encoders therefore it can operate in an agricultural field easily. Seed can be drop to field by using mid van rotor at accurate location. IR sensor and ATMEGA microcontroller features will help in dropping the seeds at prescribed position.
 ***
 
-11.
- 
+11.Robotic Vehicle for Seed Planting & Weeding Applications-http://webcache.googleusercontent.com/search?q=cache:http://www.ijirst.org/articles/IJIRSTV3I12073.pdf
+Description:The circuitry mainly consists of ultrasonic obstacle sensor, 4 DC motor responsible for robot movement and remaining two forseed planting and Ploughing or Weeding purpose. These all work is controlled by Sam 3X8E controller as per selected crop bykeypad with help of LCD.The hardware of agribot is mounted on Chassis. All the hardware components and their features are explained below
+***
+
+12.Design and Development of Automatic Operated Seeds Sowing Machine-http://www.ijritcc.org/download/browse/Volume_5_Issues/February_17_Volume_5_Issue_2/1489565958_15-03-2017.pdf
+Description:This method will do the seed
+sowing row by row. At a time multiple strips are utilize/used
+for sowing process. This method will be achieve the great
+efficiency and accuracy.
+In This system gear system is replace by hall effect sensor.
+With this rotation is converted into distance by using
+controller ATMEGHA16
+***
+
+13.Automated Seed Planter using firebird V Robot-https://www.crazyengineers.com/threads/automated-seed-planter-using-firebird-v-robot.79006/
+Description:The project consists of a Firebird V Atmega 2560 Robot.
+There are two fields on either side of a white line(fig.1.1). The robot will trace the white line with the help of white line sensors mounted on the Fire Bird V. Suppose the robot has to plant the seeds after every 10cm, it will have to stop after every 10cm. This can be done by turning off the dc motors.  
 
 
