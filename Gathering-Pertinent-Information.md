@@ -132,6 +132,18 @@ _ _ _
 |4      |Electronic Robots operated both on dc/ac have voltage regulators |Voltage regulators are needed in our bot to so that the bot can be operated by a fixed output voltage|
 |5      |IR(Infrared) sensors present in electronic toy cars are used to detect obstacles in its path|Our bot need IR sensors to detect obstacles in it path to avoid damage to it|
 
+#Cost Estimation
+
+| SI.No. |Item       |Estimated cost in Rupees                                                                           |
+|--------|-----------|---------------------------------------------------------------------------------------------------|
+|1       | Arduino kit | 2100.00|
+|2       |Spur Gear    |350.00|
+|3       |Seed Bucket |20.00 |
+|4       | Microcontroller|250.00|
+|5       |IR sensor|150.00|
+|6       |Motor Controller |150.00|
+|7       |12V 3A-h DC supply|970.00|
+|        |                  |Total:3990.00|
 
 	
 
