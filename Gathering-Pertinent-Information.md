@@ -174,6 +174,8 @@ _ _ _
 * Jumper Wire-Jumper wires are simply wires that have connector pins at each end, allowing them to be used to connect two points to each other without soldering. Jumper wires are typically used with breadboards and other prototyping tools in order to make it easy to change a circuit as needed.
 
 ![](https://cdn.solarbotics.com/products/photos/599f9a93708832b5cf9b2d0406020c56/45073-IMG_2066.jpg?w=800)
+* Wire stipper-A US-style simple manual wire stripper is a pair of opposing blades much like scissors or wire cutters. The addition of a center notch makes it easier to cut the insulation without cutting the wire. This type of wire stripper is used by rotating it around the insulation while applying pressure in order to make a cut around the insulation. 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wire_strippers_5.jpg/800px-Wire_strippers_5.jpg)
 
 
 # Cost Estimation
