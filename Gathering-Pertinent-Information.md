@@ -114,3 +114,4 @@ Description:The project consists of a Firebird V Atmega 2560 Robot.
 There are two fields on either side of a white line(fig.1.1). The robot will trace the white line with the help of white line sensors mounted on the Fire Bird V. Suppose the robot has to plant the seeds after every 10cm, it will have to stop after every 10cm. This can be done by turning off the dc motors.  
 
 
+|----------|--------------|---------------|
