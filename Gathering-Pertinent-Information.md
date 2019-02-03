@@ -118,13 +118,15 @@ _ _ _
 # Components and their working principle
 |SI.No|Components|     Principle                                                                                         | 
 |-----|----------|-------------------------------------------------------------------------------------------------------|
-|1   |Arduino Mega|The Arduino Uno board is a microcontroller based on the ATmega328.It has 14 digital input/output pins.|   
+|1   |Arduino Mega|The Arduino Uno board is a micro controller based on the ATmega328.It has 14 digital input/output pins.|   
 |2|Spur gear   | Transfer motion from one shaft to a parallel shaft.                                                     |
 |3|Sensors     | Mainly used to detect obstacles in the path of its motion.                                              |
 |4|Battery     | Used to supply power to the circuit.
 |5|IR sensor|It is used to detect obstacles.
 |6|Bread board|Pre circuit platform.
-|7|Jumper Wire|Conducting Property.                                                                    |  
+|7|Jumper Wire|Conducting Property.
+|8|DC Motor|Converts Electrical energy into mechanical.                                                                    |9|Wi fi Controller|Captures surroundings WiFi signals.
+|10|Wire Stripper|Cutting of wires.
 
 # Observation
 | SI.No |  Observation |  Conclusion                                                                                     |
