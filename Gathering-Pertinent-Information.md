@@ -166,8 +166,10 @@ _ _ _
 
 ![](https://robu.in/wp-content/uploads/2017/09/IMG_0521.jpg)
 
-* Ardunio-
+* Ardino-The UNO is the most used and documented board of the whole Ardino family. ... Ardino Uno is a micro controller board based on the ATmega328P (datasheet). It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz quartz crystal.
+* It is basically used in communications and in controlling or operating many devices. 
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/220px-Arduino_Uno_-_R3.jpg)
 
 
 
