@@ -132,7 +132,7 @@ _ _ _
 |4      |Electronic Robots operated both on dc/ac have voltage regulators |Voltage regulators are needed in our bot to so that the bot can be operated by a fixed output voltage|
 |5      |IR(Infrared) sensors present in electronic toy cars are used to detect obstacles in its path|Our bot need IR sensors to detect obstacles in it path to avoid damage to it|
 
-#Cost Estimation
+# Cost Estimation
 
 | SI.No. |Item       |Estimated cost in Rupees                                                                           |
 |--------|-----------|---------------------------------------------------------------------------------------------------|
