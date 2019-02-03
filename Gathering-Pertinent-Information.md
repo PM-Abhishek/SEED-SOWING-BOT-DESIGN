@@ -131,6 +131,23 @@ _ _ _
 |3      |Tractors have strong claw-like structure	|Bot should have strong claw-like structure for low level earth moving operation|
 |4      |Electronic Robots operated both on dc/ac have voltage regulators |Voltage regulators are needed in our bot to so that the bot can be operated by a fixed output voltage|
 |5      |IR(Infrared) sensors present in electronic toy cars are used to detect obstacles in its path|Our bot need IR sensors to detect obstacles in it path to avoid damage to it|
+  *  8051 Micro-controller- It is used to store the seed in a M by N pattern.The micro-controller 8051 applications include large amount of machines, principally because it is simple to incorporate in a project or to assemble a machine around it.
+
+ * L293D motor driver-It is used to control the DC motor. It allows you to control the working speed and direction of two motors simultaneously.
+ *ULN2003-The ULN2003 is known for its high-current, high-voltage capacity. The drivers can be paralleled for even higher current output. Even further, stacking one chip on top of another, both electrically and physically, has been done. Generally it can also be used for interfacing with a stepper motor, where the motor requires high ratings which cannot be provided by other interfacing devices.
+
+  * IR Sensor-An infrared sensor is an electronic device, that emits in order to sense some aspects of the surroundings.
+
+    An IR sensor can measure the heat of an object as well as detects the motion.This sensor is like a human’s visionary
+
+    senses, which can be used to detect obstacles and it is one of the common applications in real time.
+
+  * Stepper Motor- It is a DC motor that works in discrete steps.
+
+* Servo motor-A servo motor is an electrical device which can push or rotate an object with great precision. If you want to rotate and object at some specific angles or distance, then you use servo motor. It is just made up of simple motor which run through servo mechanism. If motor is used is DC powered then it is called DC servo motor, and if it is AC powered motor then it is called AC servo motor.[10]
+
+
+
 
 # Cost Estimation
 
