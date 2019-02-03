@@ -171,6 +171,9 @@ _ _ _
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/220px-Arduino_Uno_-_R3.jpg)
 
+* Jumper Wire-Jumper wires are simply wires that have connector pins at each end, allowing them to be used to connect two points to each other without soldering. Jumper wires are typically used with breadboards and other prototyping tools in order to make it easy to change a circuit as needed.
+
+![](https://cdn.solarbotics.com/products/photos/599f9a93708832b5cf9b2d0406020c56/45073-IMG_2066.jpg?w=800)
 
 
 # Cost Estimation
