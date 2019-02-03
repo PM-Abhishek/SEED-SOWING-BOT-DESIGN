@@ -134,8 +134,13 @@ _ _ _
  
 
  *  8051 Micro-controller- It is used to store the seed in a M by N pattern.The micro-controller 8051 applications include large amount of machines, principally because it is simple to incorporate in a project or to assemble a machine around it.
+![](https://5.imimg.com/data5/RE/DW/MY-5473486/basic-8051-microcontroller-trainer-kit-vset-ek-01-500x500.jpg)
+
 
  * L293D motor driver-It is used to control the DC motor. It allows you to control the working speed and direction of two motors simultaneously.
+![](https://images-na.ssl-images-amazon.com/images/I/41uW84Sw0IL.jpg)
+
+
  *ULN2003-The ULN2003 is known for its high-current, high-voltage capacity. The drivers can be paralleled for even higher current output. Even further, stacking one chip on top of another, both electrically and physically, has been done. Generally it can also be used for interfacing with a stepper motor, where the motor requires high ratings which cannot be provided by other interfacing devices.
 
   * IR Sensor-An infrared sensor is an electronic device, that emits in order to sense some aspects of the surroundings.
