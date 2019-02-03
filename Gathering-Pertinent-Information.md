@@ -116,8 +116,9 @@ There are two fields on either side of a white line(fig.1.1). The robot will tra
 _ _ _
 _ _ _
 # Components and their working principle
-|SI.No|Components|    Principle                                                                                          |
+|SI.No|Components|     Principle                                                                                         | 
 |-----|----------|-------------------------------------------------------------------------------------------------------|
-|1|Arduino Mega|The Arduino Uno board is a microcontroller based on the ATmega328.It has 14 digital input/output pins in 
-| |            | which 6 can be used as PWM outputs,a 16MHz ceramic resonators, an ICSP header ,a USB connection , 6      
-| |            |  analog inputs ,a power jack and a reset button.                                                         |              
+|1   |Arduino Mega|The Arduino Uno board is a microcontroller based on the ATmega328.It has 14 digital input/output pins.|   
+|2|Spur gear   | Transfer motion from one shaft to a parallel shaft.                                                     |
+|3|Sensors     | Mainly used to detect obstacles in the path of its motion.                                              |
+|4|Battery     | Used to supply power to the circuit.                                                                    |         
