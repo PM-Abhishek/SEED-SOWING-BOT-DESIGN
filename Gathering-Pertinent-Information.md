@@ -114,4 +114,11 @@ Description:The project consists of a Firebird V Atmega 2560 Robot.
 There are two fields on either side of a white line(fig.1.1). The robot will trace the white line with the help of white line sensors mounted on the Fire Bird V. Suppose the robot has to plant the seeds after every 10cm, it will have to stop after every 10cm. This can be done by turning off the dc motors.  
 
 
-|----------|--------------|---------------|
+_ _ _
+_ _ _
+# Components and their working principle
+|SI.No|Components|    Principle                                                                                          |
+|-----|----------|-------------------------------------------------------------------------------------------------------|
+|1|Arduino Mega|The Arduino Uno board is a microcontroller based on the ATmega328.It has 14 digital input/output pins in 
+| |            | which 6 can be used as PWM outputs,a 16MHz ceramic resonators, an ICSP header ,a USB connection , 6      
+| |            |  analog inputs ,a power jack and a reset button.                                                         |              
