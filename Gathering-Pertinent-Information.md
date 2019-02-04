@@ -47,7 +47,7 @@ A machine which will meet the farmers requirements using engineering specificati
 # DIY Projects
 
 ***
-1. IEU MCE 102 TERM PROJECT - SEED SOWING ROBOT-
+1. IEU MCE 102 TERM PROJECT - SEED SOWING ROBOT-<br/>
    https://www.youtube.com/watch?v=hruV3G-beWs[7]
 2. Lego Mindstorm EV3 robot-Auto Plougher and Seed Sower.
    https://www.youtube.com/watch?v=L0fIRlOt9bY[8]
