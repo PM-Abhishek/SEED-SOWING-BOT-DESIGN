@@ -71,18 +71,21 @@ Description:This project uses Arduino UNO and a bluetooth module along with DC m
 Description:They use the IR sensor module to count the number of rotations of the wheel. From this count of rotation they can cover a specific distance and it will send the signal to the microcontroller.After receiving the signal microcontroller will activate the motor driving circuit and depending on conditions dc motors are operated. Microcontroller keep counting the number of seeds sown in a row as well as the total number of columns in which seeds are sown.After moving predefined specific distance motor will turn off and seed will be sowed according to the sowing mechanism and this process will be repeated. In sowing mechanism, stepper motor is used. It is used to drop only one seed at a time. It has step angle 1.8 degree.
 
 ***
-6. Automated seed sowing Bot
-   https://www.youtube.com/watch?v=zje7rHNDD7c[14]
+6. Automated seed sowing Bot<br/>
+   https://www.youtube.com/watch?v=zje7rHNDD7c[14]<br/>
 
 Description:
 The robot consists of a funnel like arrangement in order to pour seeds into a lower container. There we use a shaft with gear like bucket teeth to pick up limited quantity of seeds and pour them on the ground in a steady manner in proper quantity. The front of the robot can be further fitted with a bent plate that drags on the soil to make a slot ahead of the machine before seeds are poured in it. The back portion of the robot can be fitted with a tail like bent rod that is again used to pour soil on seeds sowed thus covering them with soil. Thus the system completely automated the seed sowing process using a smartly designed mechanical robotic system.
    
 ***
-7.Mobile operated agriculture robot with ploughing,seed sowing and pesticides sprinkler-https://www.youtube.com/watch?v=PPk6FeXI7aw[15]
+7.Mobile operated agriculture robot with ploughing,seed sowing and pesticides sprinkler-<br/>
+https://www.youtube.com/watch?v=PPk6FeXI7aw[15]<br/>
 Description:When the robot is moving on a surface,it is controlled by a Dual Tone Multi Frequency(DTMF)decoder.This can be moved forward and reverse direction.the robot can move towards left and right directions using these geared motors.This project uses AT89S52 Microcontroller and comprises of performing ploughing and seeding via DTMF decoder commands.
 ***
 
-8.Solar energy based multipurpose agricultural robotic vehicle-https://www.youtube.com/watch?v=GqAtry7yfCk[16] Description:They are using the 12V solar panel,spur gear,fertiliser sprayer and polymer wheels,bearings,12V,7.2Amp Battery,12V gear motor,seed sower and seed containerand relays.It perform's multiple functions like ploughing,seed sowing and fertilising.
+8.Solar energy based multipurpose agricultural robotic vehicle-<br/>
+https://www.youtube.com/watch?v=GqAtry7yfCk[16]<br/>
+Description:They are using the 12V solar panel,spur gear,fertiliser sprayer and polymer wheels,bearings,12V,7.2Amp Battery,12V gear motor,seed sower and seed containerand relays.It perform's multiple functions like ploughing,seed sowing and fertilising.
 ***
 
 9.Agri bot-https://www.youtube.com/watch?v=mk5KCz_RVUM[17] 
