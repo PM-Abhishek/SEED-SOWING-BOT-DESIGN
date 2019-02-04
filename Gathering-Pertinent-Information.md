@@ -49,24 +49,24 @@ A machine which will meet the farmers requirements using engineering specificati
 ***
 1. IEU MCE 102 TERM PROJECT - SEED SOWING ROBOT-<br/>
    https://www.youtube.com/watch?v=hruV3G-beWs[7]
-2. Lego Mindstorm EV3 robot-Auto Plougher and Seed Sower.
-   https://www.youtube.com/watch?v=L0fIRlOt9bY[8]
-###Description:Lego Mindstorms NXT-Lego Mindstorms NXT is a programmable robotics kit released by Lego in July 2006, replacing the first-generation LEGO Mindstorms kit.The kit consists of 577 pieces, including: 3 servo motors, 4 sensors (ultrasonic, sound, touch, and light), 7 connection cables, a USB interface cable, and the NXT Intelligent Brick.The Intelligent Brick is the "brain" of a Mindstorms machine. It lets the robot autonomously perform different operations.[9] 
+2. Lego Mindstorm EV3 robot-Auto Plougher and Seed Sower.<br/>
+   https://www.youtube.com/watch?v=L0fIRlOt9bY[8]<br/>
+Description:Lego Mindstorms NXT-Lego Mindstorms NXT is a programmable robotics kit released by Lego in July 2006, replacing the first-generation LEGO Mindstorms kit.The kit consists of 577 pieces, including: 3 servo motors, 4 sensors (ultrasonic, sound, touch, and light), 7 connection cables, a USB interface cable, and the NXT Intelligent Brick.The Intelligent Brick is the "brain" of a Mindstorms machine. It lets the robot autonomously perform different operations.[9] 
 
   
 ***
-3. Agricultural robot designed for seeding mechanism-
-   https://iopscience.iop.org/article/10.1088/1757-899X/197/1/012043/pdf[11]
+3. Agricultural robot designed for seeding mechanism-<br/>
+   https://iopscience.iop.org/article/10.1088/1757-899X/197/1/012043/pdf[11]<br/>
    Description: In this work, apart of the land is taken into consideration and the robot introduced localizes the path and can navigate itself without human action. For ploughing, this robot is provided with tentacles attached with saw blades. The sowing mechanism initiates with long toothed gears actuated with motor.
 ***
-4. Seed sowing machine , AGRO TECH.
-   https://www.youtube.com/watch?v=2qtD3dspznE[12]
+4. Seed sowing machine , AGRO TECH.<br/>
+   https://www.youtube.com/watch?v=2qtD3dspznE[12]<br/>
 
 Description:This project uses Arduino UNO and a bluetooth module along with DC moters and a L293D motor driver.
 
 ***
-5. Automated seed sowing machine-
-   https://www.youtube.com/watch?v=S0BFd1jPQEc[13]
+5. Automated seed sowing machine-<br/>
+   https://www.youtube.com/watch?v=S0BFd1jPQEc[13]<br/>
 
 Description:They use the IR sensor module to count the number of rotations of the wheel. From this count of rotation they can cover a specific distance and it will send the signal to the microcontroller.After receiving the signal microcontroller will activate the motor driving circuit and depending on conditions dc motors are operated. Microcontroller keep counting the number of seeds sown in a row as well as the total number of columns in which seeds are sown.After moving predefined specific distance motor will turn off and seed will be sowed according to the sowing mechanism and this process will be repeated. In sowing mechanism, stepper motor is used. It is used to drop only one seed at a time. It has step angle 1.8 degree.
 
