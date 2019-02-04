@@ -19,6 +19,7 @@ Some of the existing solutions to the given problem are mentioned below-
 
 ***
 It is a fully automatic seed sowing robot that automates this task. The robot uses four motors for running it in desired directions. It uses a small bracket for pouring seeds. The robot consists of a funnel like arrangement in order to pour seeds into a lower container. There it uses a shaft with gear like bucket teeth to pick up limited quantity of seeds and pour them on the ground in a steady manner in proper quantity.[3]
+![Fig[1] Automatic seed sowing bot](https://nevonprojects.com/wp-content/uploads/2017/11/seed-sowing-robot.jpg)
 ***
 
 
