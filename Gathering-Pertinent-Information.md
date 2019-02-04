@@ -184,20 +184,21 @@ _ _ _
 |7       |12V 3A-h DC supply|970.00|
 |        |                  |Total:3990.00|
 
-	
+***	
+
 
 
 # **References**
 1.https://www.quora.com/Is-India-still-considered-as-Agrarian-economy
-2.https://www.researchgate.net/publication/312595860_Farm_Mechanization_by_using_Seed_Planting_Machine
+2.PM
 3.https://youtu.be/zje7rHNDD7c
 4.http://www.kscst.iisc.ernet.in/spp/38_series/spp38s/synopsis_exhibition/150_38S1386.pdf
 5.http://scientific.cloud-journals.com/index.php/IJAAST/article/view/Sci-223
-6.https://gallery.autodesk.com/fusion360/projects/automatic-seed-sowing-machine
+6.PM
 7.https://www.youtube.com/watch?v=hruV3G-beWs
 8.https://www.youtube.com/watch?v=L0fIRlOt9bY
 9.https://en.wikipedia.org/wiki/Lego_Mindstorms
-10.a
+10.https://en.wikipedia.org/wiki/Lego_Mindstorms
 11.https://iopscience.iop.org/article/10.1088/1757-899X/197/1/012043/pdf
 12.https://www.youtube.com/watch?v=2qtD3dspznE
 13.https://www.youtube.com/watch?v=S0BFd1jPQEc
@@ -209,7 +210,25 @@ _ _ _
 19.http://webcache.googleusercontent.com/search?q=cache:http://www.ijirst.org/articles/IJIRSTV3I12073.pdf[19]
 20.http://www.ijritcc.org/download/browse/Volume_5_Issues/February_17_Volume_5_Issue_2/1489565958_15-03-2017.pdf[20]
 21.https://www.crazyengineers.com/threads/automated-seed-planter-using-firebird-v-robot.79006/[21]
-
+22.https://www.elprocus.com/8051-microcontroller-architecture-and-applications/
+23.https://5.imimg.com/data5/RE/DW/MY-5473486/basic-8051-microcontroller-trainer-kit-vset-ek-01-500x500.jpg
+24.https://roboindia.com/tutorials/motor-driver-arduino
+25.https://images-na.ssl-images-amazon.com/images/I/41uW84Sw0IL.jpg
+26.https://en.wikipedia.org/wiki/ULN2003A#Applications
+27.https://c.76.my/Malaysia/uln2003-stepper-motor-driver-module-iportal-1901-19-F490829_1.jpg
+28.https://www.elprocus.com/infrared-ir-sensor-circuit-and-working/
+29.https://images-na.ssl-images-amazon.com/images/I/61gbfMxD%2BrL._SX342_.jpg
+30.https://learn.adafruit.com/all-about-stepper-motors/what-is-a-stepper-motor[30]
+31.https://cdn.sparkfun.com//assets/parts/1/1/0/6/7/13656-01.jpg
+32.https://circuitdigest.com/article/servo-motor-basics
+33.https://robu.in/wp-content/uploads/2017/09/IMG_0521.jpg
+34.https://www.google.com/search?q=Ardino+UNO&oq=Ardino+UNO&aqs=chrome..69i57j0l5.10086j0j7&sourceid=chrome&ie=UTF-8
+35.https://www.google.com/search?q=Ardino+UNO&oq=Ardino+UNO&aqs=chrome..69i57j0l5.10086j0j7&sourceid=chrome&ie=UTF-8
+36.https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/220px-Arduino_Uno_-_R3.jpg
+37.https://www.google.com/searchq=Jumper+wires&source=lnms&sa=X&ved=0ahUKEwjy7IaujKDgAhUPfysKHf_LAxsQ_AUICSgA&biw=1366&bih=657&dpr=1
+38.https://cdn.solarbotics.com/products/photos/599f9a93708832b5cf9b2d0406020c56/45073-IMG_2066.jpg?w=800
+39.https://en.wikipedia.org/wiki/Wire_stripper
+40.https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wire_strippers_5.jpg/800px-Wire_strippers_5.jpg
 
                                                                    
 
