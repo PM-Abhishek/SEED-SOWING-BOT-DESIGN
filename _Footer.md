@@ -61,8 +61,9 @@ Make a model of a seed sowing bot which costs less than rupees 4000 and should r
 ***
 # **Indentify the functions**
 1. It should change its path if there are obstacles in its way.
-2. The robot should both till the land and sow the seeds.
-3. The robot should be able to fertilize and irrigate.
+2. The robot should both till the land.
+3. It should sow the seeds.
+3. The robot should be able to irrigate.
 ***
 # **Problem defination version 1.3**
 make a model of a seed sowing bot which changes its path if there are obstacles in its way. the robot should both till the land and sow the seeds. the robot should also be able to fertilize and irrigate.
