@@ -53,6 +53,7 @@ A machine which will meet the farmers requirements using engineering specificati
 ***
 2. Lego Mindstorm EV3 robot-Auto Plougher and Seed Sower.<br/>
    https://www.youtube.com/watch?v=L0fIRlOt9bY[8]<br/>
+
 Description:Lego Mindstorms NXT-Lego Mindstorms NXT is a programmable robotics kit released by Lego in July 2006, replacing the first-generation LEGO Mindstorms kit.The kit consists of 577 pieces, including: 3 servo motors, 4 sensors (ultrasonic, sound, touch, and light), 7 connection cables, a USB interface cable, and the NXT Intelligent Brick.The Intelligent Brick is the "brain" of a Mindstorms machine. It lets the robot autonomously perform different operations.[9] 
   
 ***
