@@ -30,10 +30,10 @@ The controller used here is the “MSP430 Micro-controller”. The micro-control
 ***
 
 
-## **Automated seed sowing machine**
+## **Solar Operated Automatic Seed Sowing Machine**
 
 ***
-It is an automated seed sowing machine which contains micro-controllers sensors, motor driving circuit, sowing mechanism and motors. The IR sensor module has been used to count the number of rotations of the wheel. From this count of rotation it can cover a specific distance and send the signal to the micro-controller. Then the micro controller activates the seed sowing mechanism and it sows the seed. The plough and sand cover operations are done as the rover moves forward. [5]
+In this machine solar panel is used to capture solar energy and then it is converted into electrical energy which in turn is used to charge 12V battery, which then gives the necessary power to a shunt wound DC motor. This power is then transmitted to the DC motor to drive the wheels. And to further reduction of labor dependency, IR sensors are used to maneuver robot in the field. Here 4 post sensors are used to define the territory and robot senses the track length and pitch for movement from line to line. Seed sowing and digging robot will move on different ground contours and performs digging, sow the seed and water the ground after closing. [5]
 ***
 ## **Mechanizing farms through seed plantation**
 
