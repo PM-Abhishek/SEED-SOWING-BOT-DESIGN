@@ -212,23 +212,23 @@ _ _ _
 21.https://www.crazyengineers.com/threads/automated-seed-planter-using-firebird-v-robot.79006/[21]
 22.https://www.elprocus.com/8051-microcontroller-architecture-and-applications/
 23.https://5.imimg.com/data5/RE/DW/MY-5473486/basic-8051-microcontroller-trainer-kit-vset-ek-01-500x500.jpg
-24.https://roboindia.com/tutorials/motor-driver-arduino
-25.https://images-na.ssl-images-amazon.com/images/I/41uW84Sw0IL.jpg
-26.https://en.wikipedia.org/wiki/ULN2003A#Applications
-27.https://c.76.my/Malaysia/uln2003-stepper-motor-driver-module-iportal-1901-19-F490829_1.jpg
-28.https://www.elprocus.com/infrared-ir-sensor-circuit-and-working/
-29.https://images-na.ssl-images-amazon.com/images/I/61gbfMxD%2BrL._SX342_.jpg
-30.https://learn.adafruit.com/all-about-stepper-motors/what-is-a-stepper-motor[30]
-31.https://cdn.sparkfun.com//assets/parts/1/1/0/6/7/13656-01.jpg
-32.https://circuitdigest.com/article/servo-motor-basics
-33.https://robu.in/wp-content/uploads/2017/09/IMG_0521.jpg
-34.https://www.google.com/search?q=Ardino+UNO&oq=Ardino+UNO&aqs=chrome..69i57j0l5.10086j0j7&sourceid=chrome&ie=UTF-8
-35.https://www.google.com/search?q=Ardino+UNO&oq=Ardino+UNO&aqs=chrome..69i57j0l5.10086j0j7&sourceid=chrome&ie=UTF-8
-36.https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/220px-Arduino_Uno_-_R3.jpg
-37.https://www.google.com/searchq=Jumper+wires&source=lnms&sa=X&ved=0ahUKEwjy7IaujKDgAhUPfysKHf_LAxsQ_AUICSgA&biw=1366&bih=657&dpr=1
-38.https://cdn.solarbotics.com/products/photos/599f9a93708832b5cf9b2d0406020c56/45073-IMG_2066.jpg?w=800
-39.https://en.wikipedia.org/wiki/Wire_stripper
-40.https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wire_strippers_5.jpg/800px-Wire_strippers_5.jpg
+* 24.https://roboindia.com/tutorials/motor-driver-arduino
+* 25.https://images-na.ssl-images-amazon.com/images/I/41uW84Sw0IL.jpg
+* 26.https://en.wikipedia.org/wiki/ULN2003A#Applications
+* 27.https://c.76.my/Malaysia/uln2003-stepper-motor-driver-module-iportal-1901-19-F490829_1.jpg
+* 28.https://www.elprocus.com/infrared-ir-sensor-circuit-and-working/
+* 29.https://images-na.ssl-images-amazon.com/images/I/61gbfMxD%2BrL._SX342_.jpg
+* 30.https://learn.adafruit.com/all-about-stepper-motors/what-is-a-stepper-motor[30]
+* 31.https://cdn.sparkfun.com//assets/parts/1/1/0/6/7/13656-01.jpg
+* 32.https://circuitdigest.com/article/servo-motor-basics
+* 33.https://robu.in/wp-content/uploads/2017/09/IMG_0521.jpg
+* 34.https://www.google.com/search?q=Ardino+UNO&oq=Ardino+UNO&aqs=chrome..69i57j0l5.10086j0j7&sourceid=chrome&ie=UTF-8
+* 35.https://www.google.com/search?q=Ardino+UNO&oq=Ardino+UNO&aqs=chrome..69i57j0l5.10086j0j7&sourceid=chrome&ie=UTF-8
+* 36.https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/220px-Arduino_Uno_-_R3.jpg
+*37.https://www.google.com/searchq=Jumper+wires&source=lnms&sa=X&ved=0ahUKEwjy7IaujKDgAhUPfysKHf_LAxsQ_AUICSgA&biw=1366&bih=657&dpr=1
+* 38.https://cdn.solarbotics.com/products/photos/599f9a93708832b5cf9b2d0406020c56/45073-IMG_2066.jpg?w=800
+* 39.https://en.wikipedia.org/wiki/Wire_stripper
+* 40.https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wire_strippers_5.jpg/800px-Wire_strippers_5.jpg
 
                                                                    
 
