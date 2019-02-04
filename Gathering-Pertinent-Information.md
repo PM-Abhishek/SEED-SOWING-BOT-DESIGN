@@ -9,7 +9,7 @@ India is an agrarian community. About 46% of the available land is used for agri
 The History dates back to a century when the green revolution started and hence from then on there is no looking back, with more than 70% people depending on agriculture, the conventional method of seed sowing is slowly turning to be more sophisticated.No control over the depth of seed placement, No uniformity in the distribution of seed placement, Loss of seeds, No proper germination of seeds, and back pain being major issues of the age old method. There is definitely a need to automate the whole process for better yeild and to benefit a larger audience.[2]
 
 
-# **Existing solutions to given the given problem**
+# **EXISTING SOLUTIONS TO THE GIVEN PROBLEM**
 
 ***
 Some of the existing solutions to the given problem are mentioned below-
@@ -88,25 +88,30 @@ https://www.youtube.com/watch?v=GqAtry7yfCk[16]<br/>
 Description:They are using the 12V solar panel,spur gear,fertiliser sprayer and polymer wheels,bearings,12V,7.2Amp Battery,12V gear motor,seed sower and seed containerand relays.It perform's multiple functions like ploughing,seed sowing and fertilising.
 ***
 
-9.Agri bot-https://www.youtube.com/watch?v=mk5KCz_RVUM[17] 
+9.Agri bot-<br/>
+https://www.youtube.com/watch?v=mk5KCz_RVUM[17]<br/>
 Description:This is an agricultural bot that can do ploughing,sowing,watering and harvesting.There is a cultivator in the back of the bot for ploughing.After that there is a container filled with seeds for sowing .Then there is a bottle filled with water for watering .At last there is an arm robot for harvesting .
 ***
 
-10.AGROBOT-https://www.researchgate.net/publication/325593828_Design_and_development_of_seed_sowing_AGROBOT.[18]
+10.AGROBOT-<br/>
+https://www.researchgate.net/publication/325593828_Design_and_development_of_seed_sowing_AGROBOT.[18]<br/>
 Description-Agriculture robot can be control by firebird V of ATMEGA2560. In AGROBOT the major components are arranged as shown in Figure 2.1. Here it consist of 12V DC voltage   rechargeable battery with 600mah output is connected  to a L293D motor driver which is connected to a 12V 30 rpm motors as an output device and connected to the firebird V of ATMEGA2560 model to the LP3 and LP4 ports. 
 Each chamber has its own individual rotor shafts connected. The internals connections is made with the male to male wires connecters. Synchronous between wheels are maintain by using IR sensor and encoders therefore it can operate in an agricultural field easily. Seed can be drop to field by using mid van rotor at accurate location. IR sensor and ATMEGA microcontroller features will help in dropping the seeds at prescribed position.
 ***
 
-11.Robotic Vehicle for Seed Planting & Weeding Applications-http://webcache.googleusercontent.com/search?q=cache:http://www.ijirst.org/articles/IJIRSTV3I12073.pdf[19]
+11.Robotic Vehicle for Seed Planting & Weeding Applications-<br/>
+http://webcache.googleusercontent.com/search?q=cache:http://www.ijirst.org/articles/IJIRSTV3I12073.pdf[19]<br/>
 Description:The circuitry mainly consists of ultrasonic obstacle sensor, 4 DC motor responsible for robot movement and remaining two forseed planting and Ploughing or Weeding purpose. These all work is controlled by Sam 3X8E controller as per selected crop bykeypad with help of LCD.The hardware of agribot is mounted on Chassis. All the hardware components and their features are explained below
 ***
 
-12.Design and Development of Automatic Operated Seeds Sowing Machine-http://www.ijritcc.org/download/browse/Volume_5_Issues/February_17_Volume_5_Issue_2/1489565958_15-03-2017.pdf[20]
+12.Design and Development of Automatic Operated Seeds Sowing Machine-<br/>
+http://www.ijritcc.org/download/browse/Volume_5_Issues/February_17_Volume_5_Issue_2/1489565958_15-03-2017.pdf[20]<br/>
 Description:This method will do the seed sowing row by row. At a time multiple strips are utilize/usedfor sowing process. This method will be achieve the great efficiency and accuracy.In This system gear system is replace by hall effect sensor.
 With this rotation is converted into distance by using controller ATMEGHA16.
 ***
 
-13.Automated Seed Planter using firebird V Robot-https://www.crazyengineers.com/threads/automated-seed-planter-using-firebird-v-robot.79006/[21]
+13.Automated Seed Planter using firebird V Robot-<br/>
+https://www.crazyengineers.com/threads/automated-seed-planter-using-firebird-v-robot.79006/[21]<br/>
 Description:The project consists of a Firebird V Atmega 2560 Robot.
 There are two fields on either side of a white line(fig.1.1). The robot will trace the white line with the help of white line sensors mounted on the Fire Bird V. Suppose the robot has to plant the seeds after every 10cm, it will have to stop after every 10cm. This can be done by turning off the dc motors.  
 
