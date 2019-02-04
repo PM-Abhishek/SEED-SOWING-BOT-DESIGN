@@ -1,5 +1,5 @@
 # NEED STATEMENT
-##  "University of Agriculture Science has given a project to KLETech University for a seed sowing machine which can be controlled remotely."
+##  "The Agricultural Department of Dharwad requires automated seed sowing machines to reduce Human indulgence and steer productivity."
  Designers : Akshay(826), Abhishek.P.M(810), Ambika(860), Abhishek .R(811).
 
 1.Client: Neha P
