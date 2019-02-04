@@ -26,3 +26,23 @@
 |16    |Will the land be tilled or the robot should till and then sow the seeds?	|The robot should both till and sow the seeds.	|Function|
 |17    |Does the machine has to indicate the process of completion?	|Yes, and also should be able to indicate when the seed container gets empty.	|Function|
 |18    |What you need your robot to be , a fully automated or manually controlled?	|It should be semi-automatic.	|Function|
+
+# **Client's Objectives**
+
+|Sl.no|Objectives  |
+|-----|------------|
+|1    |The robot should be wireless|
+|2    |It should indicate the completion of the process|
+|3    |It should be portable|
+|4    |It should run on both AC and DC|
+|5    |It should have a seed storage facility|
+|6    |It should be farmer friendly|
+***
+# **Pair-Wise Comparision Chart**
+|Objectives|Automated|Portable|Seed storage facility|Farmer-Friendly|Total|
+|----------|---------|--------|---------------------|---------------|-----|
+|Automated | ****    |   1    |         1           |      0        |  2  |
+|Portable  |    0    |  ****  |         0           |      0        |  0  |
+|Seed Storage facility| 0     |1  | ****   | 0    | 1 |
+|Farmer-Friendly|1  |  1   | 1    | ****|  3|
+***      
