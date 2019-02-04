@@ -10,7 +10,7 @@
 |------|-----------------------|-----------------------------|----------------|
 |1     |Should the robot be wired or wireless?	|Wireless	|Objective    |
 |2     |Should it be interactive?	   |Yes,it should be able to indicate the completion of process and  also indicate if the seed container is empty	|Objective |
-|3     |On what type of soil should it be used?	| Black soil |Objective |
+|3     |On what type of soil should it be used?	| any soil fulfilling farmer's needs |Objective |
 |4     |What is preferable energy source?	|Any energy source.	|Objective|
 |5     |Whether the robot should be rugged in nature?	|Yes  |Objective |
 |6     |Should it be portable?	| Yes |Objective |
