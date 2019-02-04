@@ -58,6 +58,7 @@ Description:Lego Mindstorms NXT-Lego Mindstorms NXT is a programmable robotics k
 ***
 3. Agricultural robot designed for seeding mechanism-<br/>
    https://iopscience.iop.org/article/10.1088/1757-899X/197/1/012043/pdf[11]<br/>
+
 Description: In this work, apart of the land is taken into consideration and the robot introduced localizes the path and can navigate itself without human action. For ploughing, this robot is provided with tentacles attached with saw blades. The sowing mechanism initiates with long toothed gears actuated with motor.
 ***
 4. Seed sowing machine , AGRO TECH.<br/>
