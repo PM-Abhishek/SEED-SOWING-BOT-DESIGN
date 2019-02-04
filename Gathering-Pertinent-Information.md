@@ -189,29 +189,29 @@ _ _ _
 
 
 # **References**
-1.https://www.quora.com/Is-India-still-considered-as-Agrarian-economy
-2.PM
-3.https://youtu.be/zje7rHNDD7c
-4.http://www.kscst.iisc.ernet.in/spp/38_series/spp38s/synopsis_exhibition/150_38S1386.pdf
-5.http://scientific.cloud-journals.com/index.php/IJAAST/article/view/Sci-223
-6.PM
-7.https://www.youtube.com/watch?v=hruV3G-beWs
-8.https://www.youtube.com/watch?v=L0fIRlOt9bY
-9.https://en.wikipedia.org/wiki/Lego_Mindstorms
-10.https://en.wikipedia.org/wiki/Lego_Mindstorms
-11.https://iopscience.iop.org/article/10.1088/1757-899X/197/1/012043/pdf
-12.https://www.youtube.com/watch?v=2qtD3dspznE
-13.https://www.youtube.com/watch?v=S0BFd1jPQEc
-14.https://www.youtube.com/watch?v=zje7rHNDD7c
-15.https://www.youtube.com/watch?v=PPk6FeXI7aw
-16.-https://www.youtube.com/watch?v=GqAtry7yfCk
-17.https://www.youtube.com/watch?v=mk5KCz_RVUM
-18.https://www.researchgate.net/publication/325593828_Design_and_development_of_seed_sowing_AGROBOT.[18]
-19.http://webcache.googleusercontent.com/search?q=cache:http://www.ijirst.org/articles/IJIRSTV3I12073.pdf[19]
-20.http://www.ijritcc.org/download/browse/Volume_5_Issues/February_17_Volume_5_Issue_2/1489565958_15-03-2017.pdf[20]
-21.https://www.crazyengineers.com/threads/automated-seed-planter-using-firebird-v-robot.79006/[21]
-22.https://www.elprocus.com/8051-microcontroller-architecture-and-applications/
-23.https://5.imimg.com/data5/RE/DW/MY-5473486/basic-8051-microcontroller-trainer-kit-vset-ek-01-500x500.jpg
+* 1.https://www.quora.com/Is-India-still-considered-as-Agrarian-economy
+* 2.PM
+* 3.https://youtu.be/zje7rHNDD7c
+* 4.http://www.kscst.iisc.ernet.in/spp/38_series/spp38s/synopsis_exhibition/150_38S1386.pdf
+* 5.http://scientific.cloud-journals.com/index.php/IJAAST/article/view/Sci-223
+* 6.PM
+* 7.https://www.youtube.com/watch?v=hruV3G-beWs
+* 8.https://www.youtube.com/watch?v=L0fIRlOt9bY
+* 9.https://en.wikipedia.org/wiki/Lego_Mindstorms
+* 10.https://en.wikipedia.org/wiki/Lego_Mindstorms
+* 11.https://iopscience.iop.org/article/10.1088/1757-899X/197/1/012043/pdf
+* 12.https://www.youtube.com/watch?v=2qtD3dspznE
+* 13.https://www.youtube.com/watch?v=S0BFd1jPQEc
+* 14.https://www.youtube.com/watch?v=zje7rHNDD7c
+* 15.https://www.youtube.com/watch?v=PPk6FeXI7aw
+* 16.-https://www.youtube.com/watch?v=GqAtry7yfCk
+* 17.https://www.youtube.com/watch?v=mk5KCz_RVUM
+* 18.https://www.researchgate.net/publication/325593828_Design_and_development_of_seed_sowing_AGROBOT.[18]
+* 19.http://webcache.googleusercontent.com/search?q=cache:http://www.ijirst.org/articles/IJIRSTV3I12073.pdf[19]
+* 20.http://www.ijritcc.org/download/browse/Volume_5_Issues/February_17_Volume_5_Issue_2/1489565958_15-03-2017.pdf[20]
+* 21.https://www.crazyengineers.com/threads/automated-seed-planter-using-firebird-v-robot.79006/[21]
+* 22.https://www.elprocus.com/8051-microcontroller-architecture-and-applications/
+* 23.https://5.imimg.com/data5/RE/DW/MY-5473486/basic-8051-microcontroller-trainer-kit-vset-ek-01-500x500.jpg
 * 24.https://roboindia.com/tutorials/motor-driver-arduino
 * 25.https://images-na.ssl-images-amazon.com/images/I/41uW84Sw0IL.jpg
 * 26.https://en.wikipedia.org/wiki/ULN2003A#Applications
