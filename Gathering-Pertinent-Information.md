@@ -49,15 +49,16 @@ A machine which will meet the farmers requirements using engineering specificati
 ***
 1. IEU MCE 102 TERM PROJECT - SEED SOWING ROBOT-<br/>
    https://www.youtube.com/watch?v=hruV3G-beWs[7]
+
+***
 2. Lego Mindstorm EV3 robot-Auto Plougher and Seed Sower.<br/>
    https://www.youtube.com/watch?v=L0fIRlOt9bY[8]<br/>
 Description:Lego Mindstorms NXT-Lego Mindstorms NXT is a programmable robotics kit released by Lego in July 2006, replacing the first-generation LEGO Mindstorms kit.The kit consists of 577 pieces, including: 3 servo motors, 4 sensors (ultrasonic, sound, touch, and light), 7 connection cables, a USB interface cable, and the NXT Intelligent Brick.The Intelligent Brick is the "brain" of a Mindstorms machine. It lets the robot autonomously perform different operations.[9] 
-
   
 ***
 3. Agricultural robot designed for seeding mechanism-<br/>
    https://iopscience.iop.org/article/10.1088/1757-899X/197/1/012043/pdf[11]<br/>
-   Description: In this work, apart of the land is taken into consideration and the robot introduced localizes the path and can navigate itself without human action. For ploughing, this robot is provided with tentacles attached with saw blades. The sowing mechanism initiates with long toothed gears actuated with motor.
+Description: In this work, apart of the land is taken into consideration and the robot introduced localizes the path and can navigate itself without human action. For ploughing, this robot is provided with tentacles attached with saw blades. The sowing mechanism initiates with long toothed gears actuated with motor.
 ***
 4. Seed sowing machine , AGRO TECH.<br/>
    https://www.youtube.com/watch?v=2qtD3dspznE[12]<br/>
@@ -74,13 +75,12 @@ Description:They use the IR sensor module to count the number of rotations of th
 6. Automated seed sowing Bot<br/>
    https://www.youtube.com/watch?v=zje7rHNDD7c[14]<br/>
 
-Description:
-The robot consists of a funnel like arrangement in order to pour seeds into a lower container. There we use a shaft with gear like bucket teeth to pick up limited quantity of seeds and pour them on the ground in a steady manner in proper quantity. The front of the robot can be further fitted with a bent plate that drags on the soil to make a slot ahead of the machine before seeds are poured in it. The back portion of the robot can be fitted with a tail like bent rod that is again used to pour soil on seeds sowed thus covering them with soil. Thus the system completely automated the seed sowing process using a smartly designed mechanical robotic system.
+Description: The robot consists of a funnel like arrangement in order to pour seeds into a lower container. There we use a shaft with gear like bucket teeth to pick up limited quantity of seeds and pour them on the ground in a steady manner in proper quantity. The front of the robot can be further fitted with a bent plate that drags on the soil to make a slot ahead of the machine before seeds are poured in it. The back portion of the robot can be fitted with a tail like bent rod that is again used to pour soil on seeds sowed thus covering them with soil. Thus the system completely automated the seed sowing process using a smartly designed mechanical robotic system.
    
 ***
 7.Mobile operated agriculture robot with ploughing,seed sowing and pesticides sprinkler-<br/>
 https://www.youtube.com/watch?v=PPk6FeXI7aw[15]<br/>
-Description:When the robot is moving on a surface,it is controlled by a Dual Tone Multi Frequency(DTMF)decoder.This can be moved forward and reverse direction.the robot can move towards left and right directions using these geared motors.This project uses AT89S52 Microcontroller and comprises of performing ploughing and seeding via DTMF decoder commands.
+Description: When the robot is moving on a surface,it is controlled by a Dual Tone Multi Frequency(DTMF)decoder.This can be moved forward and reverse direction.the robot can move towards left and right directions using these geared motors.This project uses AT89S52 Microcontroller and comprises of performing ploughing and seeding via DTMF decoder commands.
 ***
 
 8.Solar energy based multipurpose agricultural robotic vehicle-<br/>
@@ -95,18 +95,18 @@ Description:This is an agricultural bot that can do ploughing,sowing,watering an
 
 10.AGROBOT-<br/>
 https://www.researchgate.net/publication/325593828_Design_and_development_of_seed_sowing_AGROBOT.[18]<br/>
-Description-Agriculture robot can be control by firebird V of ATMEGA2560. In AGROBOT the major components are arranged as shown in Figure 2.1. Here it consist of 12V DC voltage   rechargeable battery with 600mah output is connected  to a L293D motor driver which is connected to a 12V 30 rpm motors as an output device and connected to the firebird V of ATMEGA2560 model to the LP3 and LP4 ports. 
+Description- Agriculture robot can be control by firebird V of ATMEGA2560. In AGROBOT the major components are arranged as shown in Figure 2.1. Here it consist of 12V DC voltage   rechargeable battery with 600mah output is connected  to a L293D motor driver which is connected to a 12V 30 rpm motors as an output device and connected to the firebird V of ATMEGA2560 model to the LP3 and LP4 ports. 
 Each chamber has its own individual rotor shafts connected. The internals connections is made with the male to male wires connecters. Synchronous between wheels are maintain by using IR sensor and encoders therefore it can operate in an agricultural field easily. Seed can be drop to field by using mid van rotor at accurate location. IR sensor and ATMEGA microcontroller features will help in dropping the seeds at prescribed position.
 ***
 
 11.Robotic Vehicle for Seed Planting & Weeding Applications-<br/>
 http://webcache.googleusercontent.com/search?q=cache:http://www.ijirst.org/articles/IJIRSTV3I12073.pdf[19]<br/>
-Description:The circuitry mainly consists of ultrasonic obstacle sensor, 4 DC motor responsible for robot movement and remaining two forseed planting and Ploughing or Weeding purpose. These all work is controlled by Sam 3X8E controller as per selected crop bykeypad with help of LCD.The hardware of agribot is mounted on Chassis. All the hardware components and their features are explained below
+Description: The circuitry mainly consists of ultrasonic obstacle sensor, 4 DC motor responsible for robot movement and remaining two forseed planting and Ploughing or Weeding purpose. These all work is controlled by Sam 3X8E controller as per selected crop bykeypad with help of LCD.The hardware of agribot is mounted on Chassis. All the hardware components and their features are explained below
 ***
 
 12.Design and Development of Automatic Operated Seeds Sowing Machine-<br/>
 http://www.ijritcc.org/download/browse/Volume_5_Issues/February_17_Volume_5_Issue_2/1489565958_15-03-2017.pdf[20]<br/>
-Description:This method will do the seed sowing row by row. At a time multiple strips are utilize/usedfor sowing process. This method will be achieve the great efficiency and accuracy.In This system gear system is replace by hall effect sensor.
+Description: This method will do the seed sowing row by row. At a time multiple strips are utilize/usedfor sowing process. This method will be achieve the great efficiency and accuracy.In This system gear system is replace by hall effect sensor.
 With this rotation is converted into distance by using controller ATMEGHA16.
 ***
 
