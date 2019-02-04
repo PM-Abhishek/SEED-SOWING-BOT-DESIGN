@@ -198,11 +198,11 @@ _ _ _
 
 # **References**
 * 1.https://www.quora.com/Is-India-still-considered-as-Agrarian-economy
-* 2.PM
+* 2.https://www.researchgate.net/publication/312595860_Farm_Mechanization_by_using_Seed_Planting_Machine
 * 3.https://youtu.be/zje7rHNDD7c
 * 4.http://www.kscst.iisc.ernet.in/spp/38_series/spp38s/synopsis_exhibition/150_38S1386.pdf
 * 5.http://scientific.cloud-journals.com/index.php/IJAAST/article/view/Sci-223
-* 6.PM
+* 6.https://gallery.autodesk.com/fusion360/projects/automatic-seed-sowing-machine
 * 7.https://www.youtube.com/watch?v=hruV3G-beWs
 * 8.https://www.youtube.com/watch?v=L0fIRlOt9bY
 * 9.https://en.wikipedia.org/wiki/Lego_Mindstorms
