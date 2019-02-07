@@ -48,7 +48,7 @@
 4. Portable
 ***
 # **Problem Definition version 1.1**
-Make a model of a seed sowing bot which is farmer-friendly and can be controlled wirelessly.It should have a seed storage facility and it should be portable and should run on any energy source.
+A model of a seed sowing bot which is farmer-friendly and can be controlled wirelessly.It should have a seed storage facility and it should be portable and should run on any energy source.
 ***
 # **Identify The constraints**
 1. Price should be less than rupees 4000
@@ -57,14 +57,14 @@ Make a model of a seed sowing bot which is farmer-friendly and can be controlled
 4. It should carry a minimum of 100 seeds depending on the seed size.
 ***
 # **Problem definition version 1.2**
-Make a model of a seed sowing bot which costs less than rupees 4000 and should run for 3 hours on full charge.It should have a storage compartment capable of storing 100 seeds depending on the seed size.
+A model of a seed sowing bot which costs less than rupees 4000 and should run for 3 hours on full charge.It should have a storage compartment capable of storing 100 seeds depending on the seed size.
 ***
 # **Indentify the functions**
 1. It should change its path if there are obstacles in its way.
-2. The robot should both till the land.
+2. The robot should till the land.
 3. It should sow the seeds.
-3. The robot should be able to irrigate.
+4. The robot should be able to irrigate.
 ***
 # **Problem defination version 1.3**
-make a model of a seed sowing bot which changes its path if there are obstacles in its way. the robot should both till the land and sow the seeds. the robot should also be able to fertilize and irrigate.
+A model of a seed sowing bot which is farmer friendly and can be controlled wirelessly. It should have a seed storage facility and it should be portable and run on any energy source. A model of a seed sowing bot bot which costs less than rupees 4000 and should run for 3  hours on full charge. it should have a storage compartment capable of string 100 seeds depending on the seed size. If there is any obstacle in the way. The robot should till the land, and sow the seeds. The robot should also be able to irrigate.
 ***
