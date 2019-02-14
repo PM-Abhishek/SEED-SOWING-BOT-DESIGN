@@ -1,25 +1,28 @@
 # **Objectives In order of priority**
 
 ***
-
+1. Easy to use
+2. Wireless control
+3. Seed Storage facility
+4. Portable
 ***
 # **Weightage table**
 
 ***
 |SI.No.|Objective             |Weightage             |
 |------|----------------------|----------------------|
-|1.    | Easy To Use         |TO BE FILLED          |
-|2.    | Seed Storage facility         |TO BE FILLED          |
-|3.    | Wireless control         |TO BE FILLED          |
-|4.    | Portablity               |TO BE FILLED          |
+|1.    | Easy To Use         |9          |
+|2.    | Wireless Control         |8         |
+|3.    | Seed storage facility         |6          |
+|4.    | Portablity               |5          |
 ***
 # **PUGH Chart**
 |Objectives    |Design 1               |Design 2               |Design 3               |Design 4               |
 |--------------|-----------------------|-----------------------|-----------------------|-----------------------|
-|              | TO BE FILLED          |TO BE FILLED           | TO BE FILLED          |TO BE FILLED           |
-|              | TO BE FILLED          |TO BE FILLED           | ""                    |    ""                 |
-|              | TO BE FILLED          |TO BE FILLED           |     ""                |    ""                 |
-|              | TO BE FILLED          |TO BE FILLED           |   ""                  |    ""                 |
+| Easy to use             | TO BE FILLED          |TO BE FILLED           | TO BE FILLED          |TO BE FILLED |          
+| Wireless control             | TO BE FILLED          |TO BE FILLED           | ""                    |    ""   |            
+|Seed storage facility              | TO BE FILLED          |TO BE FILLED           |     ""                |    ""  |
+|Portability              | TO BE FILLED          |TO BE FILLED           |   ""                  |    ""               |
 ***
 
 ***
