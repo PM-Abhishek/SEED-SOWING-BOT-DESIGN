@@ -11,7 +11,7 @@
 ![a3](https://user-images.githubusercontent.com/46917583/52779566-7476f680-306e-11e9-83ee-41e0d4334499.PNG)
 
 <br/>
-![a4](https://user-images.githubusercontent.com/46917583/52779573-76d95080-306e-11e9-8034-d54816a1f13f.PNG)
+
 
 
 <br/>
