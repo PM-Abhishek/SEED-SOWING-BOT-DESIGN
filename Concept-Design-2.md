@@ -17,12 +17,12 @@
 |4.    | Portablity               |5          |
 ***
 # **PUGH Chart**
-|Objectives    |Design 1               |Design 2               |Design 3               |Design 4               |
-|--------------|-----------------------|-----------------------|-----------------------|-----------------------|
-| Easy to use             | TO BE FILLED          |TO BE FILLED           | TO BE FILLED          |TO BE FILLED |          
-| Wireless control             | TO BE FILLED          |TO BE FILLED           | ""                    |    ""   |            
-|Seed storage facility              | TO BE FILLED          |TO BE FILLED           |     ""                |    ""  |
-|Portability              | TO BE FILLED          |TO BE FILLED           |   ""                  |    ""               |
+|Objectives    |Weightage  |Design 1               |Design 2               |Design 3               |Design 4               |
+|--------------|-----------|-----------------------|-----------------------|-----------------------|-----------------------|
+| Easy to use  |  9         | TO BE FILLED          |TO BE FILLED           | TO BE FILLED          |TO BE FILLED |          
+| Wireless control|     8        | TO BE FILLED          |TO BE FILLED           | ""                    |    ""   |            
+|Seed storage facility|  6            | TO BE FILLED          |TO BE FILLED           |     ""                |    ""  |
+|Portability   |         5  | TO BE FILLED          |TO BE FILLED           |   ""                  |    ""               |
 ***
 
 ***
