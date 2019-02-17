@@ -20,7 +20,8 @@
 
 <br/>
 
-![image](https://user-images.githubusercontent.com/46991362/52909454-a080ba80-32ae-11e9-8c31-eae1f457b545.png)
+![image](https://user-images.githubusercontent.com/46991362/52909554-22bdae80-32b0-11e9-9825-d87a4bbe5fc0.png)
+
 
 <br/>
 
