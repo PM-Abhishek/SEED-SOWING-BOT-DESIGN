@@ -1,7 +1,6 @@
 ***
 
-
-![a1](![capture](https://user-images.githubusercontent.com/46991362/52908050-7c63b000-3293-11e9-93f7-408163f98788.PNG))
+![a1](https://user-images.githubusercontent.com/46917583/52779556-6de87f00-306e-11e9-8a5f-400b14c9d1bd.PNG)
 
 ***
 
