@@ -25,7 +25,7 @@
 
 <br/>
 
-![image](https://user-images.githubusercontent.com/46991362/52909493-39173a80-32af-11e9-8c7f-b15703416d88.png)
+
 
 
 <br/>
