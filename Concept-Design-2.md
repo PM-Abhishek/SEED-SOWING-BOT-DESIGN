@@ -68,3 +68,6 @@
 ***
 # **Funtional tree**
 ![capture1](https://user-images.githubusercontent.com/46917583/53155008-228c1e80-35e2-11e9-8ab4-ae2254d88eec.PNG)
+***
+# **Component Hierarchy**
+![capture3](https://user-images.githubusercontent.com/46917583/53161586-48202480-35f0-11e9-9126-7de6904197c4.PNG)
