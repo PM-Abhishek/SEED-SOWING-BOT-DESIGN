@@ -75,10 +75,10 @@
 |       |        |Subsystem 1             |            |
 |--------------|-----------|-----------------------|-----------------------|
 |        |Sub-system 2|Sub-system 3|Sub-system 4|
-|Energy Interaction||||
-|Material Interaction||||
-|Data Interaction||||
-|Spatial Interaction||||
+|Energy Interaction| Yes|No|No|
+|Material Interaction|No|Yes|Yes|
+|Data Interaction|Yes|Yes|No|
+|Spatial Interaction|Yes|No|No|
 
 EXPLANATION:
 
@@ -87,10 +87,10 @@ EXPLANATION:
 |       |        |Subsystem 2             |            |
 |--------------|-----------|-----------------------|-----------------------|
 |        |Sub-system 1|Sub-system 3|Sub-system 4|
-|Energy Interaction||||
-|Material Interaction||||
-|Data Interaction||||
-|Spatial Interaction||||
+|Energy Interaction|Yes|No|Yes|
+|Material Interaction|No|No|Yes|
+|Data Interaction|Yes|Yes|Yes|
+|Spatial Interaction|Yes|No|No|
 
 EXPLANATION:
 
@@ -99,10 +99,10 @@ EXPLANATION:
 |       |        |Subsystem 3             |            |
 |--------------|-----------|-----------------------|-----------------------|
 |        |Sub-system 1|Sub-system 2|Sub-system 4|
-|Energy Interaction||||
-|Material Interaction||||
-|Data Interaction||||
-|Spatial Interaction||||
+|Energy Interaction|No|No|Yes|
+|Material Interaction|Yes|No|Yes|
+|Data Interaction|Yes|Yes|Yes|
+|Spatial Interaction|No|Yes|Yes|
 
 EXPLANATION:
 
@@ -111,9 +111,9 @@ EXPLANATION:
 |       |        |Subsystem 4             |            |
 |--------------|-----------|-----------------------|-----------------------|
 |        |Sub-system 1|Sub-system 2|Sub-system 3|
-|Energy Interaction||||
-|Material Interaction||||
-|Data Interaction||||
-|Spatial Interaction||||
+|Energy Interaction|No|Yes|Yes|
+|Material Interaction|Yes|Yes|Yes|
+|Data Interaction|No|Yes|Yes|
+|Spatial Interaction|No|No|Yes|
 
 EXPLANATION:
