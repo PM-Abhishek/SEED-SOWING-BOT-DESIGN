@@ -54,6 +54,11 @@
 ## **Design 3**
 
 ***
+![img-20190217-wa0005](https://user-images.githubusercontent.com/46917583/53155507-38e6aa00-35e3-11e9-847b-18f641836179.jpg)
+***
+## **Design 4**
 
 ***
-## 
+![img-20190217-wa0004](https://user-images.githubusercontent.com/46917583/53155513-3ab06d80-35e3-11e9-813a-7e2686615fa7.jpg)
+
+***
