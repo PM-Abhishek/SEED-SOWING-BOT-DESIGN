@@ -67,3 +67,4 @@
 
 ***
 # **Funtional tree**
+![capture1](https://user-images.githubusercontent.com/46917583/53155008-228c1e80-35e2-11e9-8ab4-ae2254d88eec.PNG)
