@@ -71,3 +71,49 @@
 ***
 # **Component Hierarchy**
 ![capture3](https://user-images.githubusercontent.com/46917583/53161586-48202480-35f0-11e9-9126-7de6904197c4.PNG)
+# **System interaction Table**
+|       |        |Subsystem 1             |            |
+|--------------|-----------|-----------------------|-----------------------|
+|        |Sub-system 2|Sub-system 3|Sub-system 4|
+|Energy Interaction||||
+|Material Interaction||||
+|Data Interaction||||
+|Spatial Interaction||||
+
+EXPLANATION:
+
+
+# **System interaction Table**
+|       |        |Subsystem 2             |            |
+|--------------|-----------|-----------------------|-----------------------|
+|        |Sub-system 1|Sub-system 3|Sub-system 4|
+|Energy Interaction||||
+|Material Interaction||||
+|Data Interaction||||
+|Spatial Interaction||||
+
+EXPLANATION:
+
+
+# **System interaction Table**
+|       |        |Subsystem 3             |            |
+|--------------|-----------|-----------------------|-----------------------|
+|        |Sub-system 1|Sub-system 2|Sub-system 4|
+|Energy Interaction||||
+|Material Interaction||||
+|Data Interaction||||
+|Spatial Interaction||||
+
+EXPLANATION:
+
+
+# **System interaction Table**
+|       |        |Subsystem 4             |            |
+|--------------|-----------|-----------------------|-----------------------|
+|        |Sub-system 1|Sub-system 2|Sub-system 3|
+|Energy Interaction||||
+|Material Interaction||||
+|Data Interaction||||
+|Spatial Interaction||||
+
+EXPLANATION:
