@@ -78,42 +78,42 @@
 |Energy Interaction| Yes|No|No|
 |Material Interaction|No|Yes|Yes|
 |Data Interaction|Yes|Yes|No|
-|Spatial Interaction|Yes|No|No|
+|Spatial Interaction|No|No|No|
 
-EXPLANATION:
+EXPLANATION:Subsystem 1 and subsystem 2 has not to share energy for user interaction  and moving all the subsystems  
 
 
-# **System interaction Table**
+
 |       |        |Subsystem 2             |            |
 |--------------|-----------|-----------------------|-----------------------|
 |        |Sub-system 1|Sub-system 3|Sub-system 4|
 |Energy Interaction|Yes|No|Yes|
 |Material Interaction|No|No|Yes|
 |Data Interaction|Yes|Yes|Yes|
-|Spatial Interaction|Yes|No|No|
+|Spatial Interaction|Yes|Yes|Yes|
 
-EXPLANATION:
+EXPLANATION:Subsystem 2 and 3 has to share energy for moving and seed sowing all the subsystems are connected
 
 
-# **System interaction Table**
+
 |       |        |Subsystem 3             |            |
 |--------------|-----------|-----------------------|-----------------------|
 |        |Sub-system 1|Sub-system 2|Sub-system 4|
-|Energy Interaction|No|No|Yes|
+|Energy Interaction|No|No|No|
 |Material Interaction|Yes|No|Yes|
-|Data Interaction|Yes|Yes|Yes|
-|Spatial Interaction|No|Yes|Yes|
+|Data Interaction|No|No|No|
+|Spatial Interaction|Yes|Yes|Yes|
 
-EXPLANATION:
+EXPLANATION:Subsystem 3 share no energy or data because its independent and continuous.
 
 
-# **System interaction Table**
+
 |       |        |Subsystem 4             |            |
 |--------------|-----------|-----------------------|-----------------------|
 |        |Sub-system 1|Sub-system 2|Sub-system 3|
-|Energy Interaction|No|Yes|Yes|
-|Material Interaction|Yes|Yes|Yes|
-|Data Interaction|No|Yes|Yes|
-|Spatial Interaction|No|No|Yes|
+|Energy Interaction|No|No|No|
+|Material Interaction|No|No|No|
+|Data Interaction|No|No|No|
+|Spatial Interaction|Yes|Yes|Yes|
 
-EXPLANATION:
+EXPLANATION:Subsystem 4 is independent of all system so there is no data and energy interaction.
