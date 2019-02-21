@@ -56,3 +56,14 @@
 
 ***
 # **Clustering of Sub-Systems**
+![capture2](https://user-images.githubusercontent.com/46917583/53155003-2029c480-35e2-11e9-8f04-d0446fe8442b.PNG)
+
+***
+# **Identified List of Sub-Systems**
+1.User intereaction
+2.Movement
+3.Tilling and Sowing
+4.Irrigation
+
+***
+# **Funtional tree**
