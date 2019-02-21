@@ -36,3 +36,23 @@
 ## **Justification of PUGH Chart**
 |Design   |objectives |score given               |Justification            |
 |--------------|-----------|-----------------------|-----------------------|
+|1| Easy to use|
+|1| Wireless control|
+|1| Seed Storage facility|
+|1| Portable|
+|2| Easy to use|
+|2| Wireless control|
+|2| Seed Storage facility|
+|2| Portable|
+|3| Easy to use|0|Datum|
+|3| Wireless control|0|Datum|
+|3| Seed Storage facility|0|Datum|
+|3| Portable|0|Datum|
+|4| Easy to use|
+|4| Wireless control|
+|4| Seed Storage facility|
+|4| Portable|
+
+
+***
+# **Clustering of Sub-Systems**
