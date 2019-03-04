@@ -40,21 +40,20 @@
 
 ***
 ## **Design 1**
-![a843d347-12b2-4214-b90d-410b4071e610](https://user-images.githubusercontent.com/46991362/52909800-22271700-32b4-11e9-902d-46f875cc7b8e.jpg)
+
 
 ***
 
 ***
 ## **Design 2**
-![8b7173f6-a66c-4cf2-9ac5-9ee101e34a4d](https://user-images.githubusercontent.com/46991362/52909801-23f0da80-32b4-11e9-8ad9-4a1a2ace4565.jpg)
 
 ***
-
+![a843d347-12b2-4214-b90d-410b4071e610](https://user-images.githubusercontent.com/46991362/52909800-22271700-32b4-11e9-902d-46f875cc7b8e.jpg)
 ***
 ## **Design 3**
 
 ***
-![img-20190217-wa0005](https://user-images.githubusercontent.com/46917583/53155507-38e6aa00-35e3-11e9-847b-18f641836179.jpg)
+![8b7173f6-a66c-4cf2-9ac5-9ee101e34a4d](https://user-images.githubusercontent.com/46991362/52909801-23f0da80-32b4-11e9-8ad9-4a1a2ace4565.jpg)
 ***
 ## **Design 4**
 
