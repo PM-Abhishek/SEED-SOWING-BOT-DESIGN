@@ -30,7 +30,7 @@
 
 ***
 # **Final design**
-![a843d347-12b2-4214-b90d-410b4071e610](https://user-images.githubusercontent.com/46991362/52909800-22271700-32b4-11e9-902d-46f875cc7b8e.jpg)
+![img_20190302_214150](https://user-images.githubusercontent.com/46991362/53720506-f2b50480-3e86-11e9-9145-ad91a04e649e.jpg)
 
 ***
 ## **Justification of PUGH Chart**
