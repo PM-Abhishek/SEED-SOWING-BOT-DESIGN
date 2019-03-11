@@ -60,10 +60,10 @@
 
 ***
 # **Identified List of Sub-Systems**
-1.User intereaction
-2.Movement
-3.Tilling and Sowing
-4.Irrigation
+1.User intereaction-Akshay S Kulkarni
+2.Movement-Abhishek R
+3.Tilling and Sowing-Abhishek PM
+4.Irrigation-Ambika S
 
 ***
 # **Funtional tree**
