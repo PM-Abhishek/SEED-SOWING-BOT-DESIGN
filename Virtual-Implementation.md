@@ -16,6 +16,8 @@
 ***
 ## **FLOWCHART**
 
+![irriflow](https://user-images.githubusercontent.com/46917583/54336835-395ae980-4653-11e9-94a4-65373e3a16cf.PNG)
+
 *** 
 ## **CIRCUIT DIAGRAM**
 ![irrigation](https://user-images.githubusercontent.com/46917583/54336119-1af3ee80-4651-11e9-9c2a-f05dd7d4a97f.PNG)
