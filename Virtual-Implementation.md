@@ -6,5 +6,38 @@
 
 ***
 ## **Circuit Diagram**
-![Capture](https://user-images.githubusercontent.com/46917583/54335427-eaab5080-464e-11e9-96d9-7cff68b385f8.PNG)
+![user_int](https://user-images.githubusercontent.com/46917583/54336106-129bb380-4651-11e9-8a49-7a820ca63aa5.PNG)
 
+
+***
+# **IRRIGATION**
+
+
+***
+## **FLOWCHART**
+
+*** 
+## **CIRCUIT DIAGRAM**
+![irrigation](https://user-images.githubusercontent.com/46917583/54336119-1af3ee80-4651-11e9-9c2a-f05dd7d4a97f.PNG)
+
+***
+# **MOVEMENT**
+
+***
+## **FLOWCHART**
+
+***
+## **CIRCUIT DIAGRAM**
+
+![Movement](https://user-images.githubusercontent.com/46917583/54336128-23e4c000-4651-11e9-9d21-7c23bb82ccca.PNG)
+
+
+***
+# **TILLING AND SOWING**
+
+***
+## **FLOWCHART**
+
+***
+## **CIRCUIT DIAGRAM**
+![sowing mech](https://user-images.githubusercontent.com/46917583/54336139-34953600-4651-11e9-9bff-f6111e65bfe5.PNG)
