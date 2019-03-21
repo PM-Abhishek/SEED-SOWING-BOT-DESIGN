@@ -43,3 +43,10 @@
 ***
 ## **CIRCUIT DIAGRAM**
 ![sowing mech](https://user-images.githubusercontent.com/46917583/54336139-34953600-4651-11e9-9bff-f6111e65bfe5.PNG)
+
+***
+
+# **3D MODEL**
+![3Dmodel](https://user-images.githubusercontent.com/46917583/54739820-696c3480-4bdf-11e9-8010-447a8e3f23b3.PNG)
+
+***
