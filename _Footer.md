@@ -18,10 +18,10 @@
 |8    |What amount of seeds should it be able to carry?	|It should be able to carry 100 grams of seed.	|Constraint|
 |9    |How many hours should the robot work continuously?	|For 3 hours| Constraint|
 |10    |What should be the height of the robot?	|1 foot |Constraint|
-|11    |Should the robot change its path if there are obstacles in its way?	|Yes | Function|
+|11    |Should the robot stop if there are obstacles in its way?	|Yes | Function|
 |12    |Will the land be tilled or the robot should till and then sow the seeds?	|The robot should both till and sow the seeds.	|Function|
 |13    |Does the machine have to irrigate?	|Yes, it should be able to irrigate.	|Function|
-|14    |Do you need the bot to fertilize the soil	|Yes.	|Function|
+
 
 # **Client's Objectives**
 
@@ -47,7 +47,7 @@
 4. Portable
 ***
 # **Problem Definition version 1.1**
-Design a model of a seed sowing bot which is farmer-friendly and can be controlled wirelessly. It should have a seed storage facility and it should be portable and should run on any energy source.
+Design a model of a seed sowing bot which is farmer-friendly and can be controlled wirelessly. It should have a seed storage facility and it should be portable.
 ***
 # **Identify The constraints**
 1. Price should be less than rupees 4000
@@ -59,12 +59,11 @@ Design a model of a seed sowing bot which is farmer-friendly and can be controll
 Design a model of a seed sowing bot which costs less than rupees 4000 and should run for 3 hours on full charge.It should have a storage compartment capable of storing 100 seeds depending on the seed size.
 ***
 # **Identify the functions**
-1. It should change its path if there are obstacles in its way.
+1. It should stop if there are obstacles in its way.
 2. The robot should till the land.
 3. It should sow the seeds.
 4. The robot should be able to irrigate.
-5. It should be able to remove small weeds.
 ***
 # **Problem definition version 1.3**
-Design a model of a seed sowing bot which is farmer friendly and can be controlled wirelessly. It should have a seed storage facility and it should be portable. A model of a seed sowing bot bot which costs less than rupees 4000 and should run for 3  hours on full charge. it should have a storage compartment capable of storing 100 seeds depending on the seed size. If there is any obstacle in the way, the robot should be able to change its path. The robot should till the land, remove small weeds if any and sow the seeds. The robot should also be able to irrigate once the seed is sowed.
+Design a model of a seed sowing bot which is farmer friendly and can be controlled wirelessly. It should have a seed storage facility and it should be portable. A model of a seed sowing bot bot which costs less than rupees 4000 and should run for 3  hours on full charge. it should have a storage compartment capable of storing 100 seeds depending on the seed size. The robot  should be able to detect obstacles in its path. The robot should also be able to irrigate once the seed is sowed.
 ***
