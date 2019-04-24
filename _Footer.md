@@ -65,5 +65,5 @@ Design a model of a seed sowing bot which costs less than rupees 4000 and should
 4. The robot should be able to irrigate.
 ***
 # **Problem definition version 1.3**
-Design a model of a seed sowing bot which is farmer friendly and can be controlled wirelessly. It should have a seed storage facility and it should be portable. A model of a seed sowing bot bot which costs less than rupees 4000 and should run for 3  hours on full charge. it should have a storage compartment capable of storing 100 seeds depending on the seed size. The robot  should be able to detect obstacles in its path. The robot should also be able to irrigate once the seed is sowed.
+Design a model of a seed sowing bot which is farmer friendly and can be controlled wirelessly. It should have a seed storage facility and it should be portable. A model of a seed sowing bot bot which costs less than rupees 4000 and should run for 3  hours on full charge. it should have a storage compartment capable of storing 100 seeds depending on the seed size. The robot  should be able to detect obstacles in its path.
 ***
