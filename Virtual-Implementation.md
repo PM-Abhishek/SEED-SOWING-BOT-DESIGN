@@ -20,6 +20,7 @@
 ***
 ## **FLOWCHART**
 
+![movementflow](https://user-images.githubusercontent.com/46917583/56685074-b5cef680-66ee-11e9-8800-42dbe1acf17b.PNG)
 ***
 ## **CIRCUIT DIAGRAM**
 
