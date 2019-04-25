@@ -9,8 +9,7 @@
 ![user_int](https://user-images.githubusercontent.com/46917583/54336106-129bb380-4651-11e9-8a49-7a820ca63aa5.PNG)
 
 ## **BILL OF MATERIALS**
-
-
+![Capture](https://user-images.githubusercontent.com/46991362/56705951-bee0b780-6730-11e9-9efe-5146f213e99d.PNG)
 ***
 
 
