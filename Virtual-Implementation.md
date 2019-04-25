@@ -43,5 +43,5 @@
 ![sowing mech](https://user-images.githubusercontent.com/46917583/54336139-34953600-4651-11e9-9bff-f6111e65bfe5.PNG)
 
 ## **BILL OF MATERIALS**
-
+![Capture](https://user-images.githubusercontent.com/46991362/56706127-7675c980-6731-11e9-9262-ecb7f108470c.PNG)
 
