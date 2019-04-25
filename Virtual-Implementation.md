@@ -8,6 +8,8 @@
 ## **Circuit Diagram**
 ![user_int](https://user-images.githubusercontent.com/46917583/54336106-129bb380-4651-11e9-8a49-7a820ca63aa5.PNG)
 
+## **BILL OF MATERIALS**
+
 
 ***
 
@@ -40,5 +42,7 @@
 ***
 ## **CIRCUIT DIAGRAM**
 ![sowing mech](https://user-images.githubusercontent.com/46917583/54336139-34953600-4651-11e9-9bff-f6111e65bfe5.PNG)
+
+## **BILL OF MATERIALS**
 
 
