@@ -32,7 +32,7 @@
 
 ***
 ## **FLOWCHART**
-
+![Capture](https://user-images.githubusercontent.com/46991362/56705205-acb14a00-672d-11e9-83d5-6d032e7bfee9.PNG)
 ***
 ## **CIRCUIT DIAGRAM**
 ![sowing mech](https://user-images.githubusercontent.com/46917583/54336139-34953600-4651-11e9-9bff-f6111e65bfe5.PNG)
