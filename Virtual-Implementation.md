@@ -27,6 +27,7 @@
 ![Movement](https://user-images.githubusercontent.com/46917583/54336128-23e4c000-4651-11e9-9d21-7c23bb82ccca.PNG)
 
 ## **BILL OF MATERIALS**
+![Capture](https://user-images.githubusercontent.com/46991362/56705652-6eb52580-672f-11e9-88fa-7cf1c4f45017.PNG)
 
 
 
