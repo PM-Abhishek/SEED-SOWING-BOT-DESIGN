@@ -49,5 +49,7 @@
 # **ENTIRE SYSTEM**
 
 ***
+# ** BILL OF MATERIALS **
+
 ## **Circuit Diagram**
 
