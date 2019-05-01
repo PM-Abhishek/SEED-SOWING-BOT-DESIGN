@@ -8,7 +8,9 @@ FABRICATION PLAN: In this sprint we mainly focus on the movement and obstacle de
 INTERACTION ASPECT DETAILS
 
 1)Material Interaction: Components and chassis, Arduino Mega 2560, 2 channel relay, 2 DC Motors(60 rpm), 2 DC motor shafts, Jumper Wires for connection, Bread Board, Bluetooth Module.
+\n
 2)Data Interaction: Program uploaded on Arduino IDE and App created using MIT Inventor App through which commands can be given to move forward, backwards, right, left or stop.
+\n
 3)Energy Interaction: 12 V Battery gives the power supply to the motors.
 
 ***
