@@ -1,5 +1,5 @@
-** SUBSYSTEM NAME: MOVEMENT AND OBSTACLE DETECTION **
+*** 
+SUBSYSTEM NAME: MOVEMENT AND OBSTACLE DETECTION 
 
-***
-FABRICATION PLAN: 
+FABRICATION PLAN: In this sprint we mainly focus on the movement and obstacle detection of the bot. For the movement the wheels are required which are run by the dc motors. two wheels in precise are attached to the dc motors and the other two are attached to the dc motor shafts which facilitate the movement and allows easy movement of the bot. all the movements are in turn attached to the Bluetooth device which is controlled by the app in the mobile. The dc motors that we have used here are 60 rpm. and is powered by the battery. It is in turn attached to the aurdino which is programmed in such a way for easy user interaction. The aurdino is programmed in such a way that the bot can move forward, backward, move left or right while moving forward or backward
 ***
