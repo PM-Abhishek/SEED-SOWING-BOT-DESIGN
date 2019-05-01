@@ -50,6 +50,8 @@
 
 ***
 # ** BILL OF MATERIALS **
+![Capture](https://user-images.githubusercontent.com/46991362/57004291-7a9b5e80-6beb-11e9-8736-bcfb3e74f428.PNG)
+
 
 ## **Circuit Diagram**
 
