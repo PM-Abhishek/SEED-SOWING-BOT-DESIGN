@@ -29,8 +29,7 @@
 
 <br/>
 
-![user_int table](https://user-images.githubusercontent.com/46917583/57189531-92e1e500-6f2d-11e9-994a-661a8ab8991f.PNG)
-
+![user_int table](https://user-images.githubusercontent.com/46917583/57189936-36cd8f80-6f32-11e9-8701-978442d24a69.PNG)
 
 <br/>
 ***
