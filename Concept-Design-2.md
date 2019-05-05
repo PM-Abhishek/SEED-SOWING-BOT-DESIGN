@@ -63,7 +63,7 @@
 1.User intereaction-Akshay S Kulkarni
 2.Movement-Abhishek R
 3.Tilling-Abhishek P M
-
+4.Seed sowing-Ambika S
 ***
 # **Funtional tree**
 ![capture1](https://user-images.githubusercontent.com/46917583/53155008-228c1e80-35e2-11e9-8ab4-ae2254d88eec.PNG)
