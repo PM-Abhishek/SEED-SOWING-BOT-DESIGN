@@ -11,6 +11,7 @@
 ## **BILL OF MATERIALS**
 ![Capture](https://user-images.githubusercontent.com/46991362/56705951-bee0b780-6730-11e9-9efe-5146f213e99d.PNG)
 ***
+## **3D MODEL**
 
 
 
