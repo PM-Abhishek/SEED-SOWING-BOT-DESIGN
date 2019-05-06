@@ -15,3 +15,73 @@ INTERACTION ASPECT DETAILS
 
 ***
 PROGRAM CODE:
+ int data=0;
+const int trigpin=6;
+const int echopin=4;
+void setup() {
+  Serial.begin(9600);
+  pinMode(trigpin,OUTPUT);
+  pinMode(echopin,INPUT);
+  pinMode(8,OUTPUT);
+  pinMode(9,OUTPUT);
+  pinMode(11,OUTPUT);
+  pinMode(13,OUTPUT);
+  
+}
+
+void loop() {
+  char data;
+
+  float duration,distance;
+  digitalWrite(trigpin,LOW);
+  digitalWrite(trigpin,HIGH);
+  delayMicroseconds(10);
+  digitalWrite(trigpin,LOW);
+  duration=pulseIn(echopin,HIGH);
+  distance=duration*0.017;
+  Serial.println(distance);
+
+  data=Serial.read();
+  
+if(distance>=11)
+{
+  if(data=='F')
+  {
+   
+    
+      digitalWrite(8,HIGH);
+      digitalWrite(9,LOW);
+      digitalWrite(11,HIGH);
+      digitalWrite(13,LOW);
+      Serial.println("MOVING FORWARD!!");
+    
+  }
+  if(data=='B')
+  {
+    digitalWrite(8,LOW);
+    digitalWrite(9,HIGH);
+    digitalWrite(11,LOW);
+    digitalWrite(13,HIGH);
+    Serial.println("TAKING REVERSE!!");
+  }
+   if(data=='L')
+  {
+    digitalWrite(8,HIGH);
+    digitalWrite(9,LOW);
+    digitalWrite(11,LOW);
+    digitalWrite(13,HIGH);
+    Serial.println("TURNING LEFT!!");
+  }
+  if(data=='R')
+  {
+    digitalWrite(8,LOW);
+    digitalWrite(9,HIGH);
+    digitalWrite(11,HIGH);
+    digitalWrite(13,LOW);
+    Serial.println("TURNING RIGHT!!");
+  }
+
+}
+
+
+ 
