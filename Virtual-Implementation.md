@@ -12,6 +12,8 @@
 ![Capture](https://user-images.githubusercontent.com/46991362/56705951-bee0b780-6730-11e9-9efe-5146f213e99d.PNG)
 ***
 ## **3D MODEL**
+![Capture3D](https://user-images.githubusercontent.com/46917583/57206752-edd71300-6fe5-11e9-9d66-71e9deb50389.PNG)
+***
 
 
 
